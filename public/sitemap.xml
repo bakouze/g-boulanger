@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://g-boulanger.com/</loc>
-    <lastmod>2025-05-27T18:16:50+02:00</lastmod>
-  </url><url>
-    <loc>https://g-boulanger.com/posts/hello-world/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-boulanger.com/posts/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-boulanger.com/categories/</loc>
-  </url><url>
-    <loc>https://g-boulanger.com/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://g-boulanger.com/</loc><lastmod>2025-05-29T00:00:00+00:00</lastmod></url><url><loc>https://g-boulanger.com/posts/</loc><lastmod>2025-05-29T00:00:00+00:00</lastmod></url><url><loc>https://g-boulanger.com/posts/test/</loc><lastmod>2025-05-29T00:00:00+00:00</lastmod></url><url><loc>https://g-boulanger.com/posts/test2/</loc><lastmod>2025-05-29T00:00:00+00:00</lastmod></url><url><loc>https://g-boulanger.com/posts/hello-world/</loc><lastmod>2025-05-27T00:00:00+00:00</lastmod></url><url><loc>https://g-boulanger.com/categories/</loc></url><url><loc>https://g-boulanger.com/tags/</loc></url></urlset>
