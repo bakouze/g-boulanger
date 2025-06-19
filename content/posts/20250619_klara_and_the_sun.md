@@ -1,7 +1,9 @@
 +++
 date = '2025-06-19T13:26:35+02:00'
-draft = true
+draft = false
 title = 'Klara and the Sun — Reflections on Technology, Inequality, and Belief'
+description = "A reflection on gene editing, AI, and the limits of human emotion."
+keywords = ["consciousness", "AI", "Klara and the Sun", "philosophy"]
 +++
 
 I recently finished reading *Klara and the Sun* by Kazuo Ishiguro and found it to be both a deeply moving and intellectually stimulating novel. Through the naive and observant gaze of Klara—an Artificial Friend (AF) designed to support children—Ishiguro explores a number of unsettling themes that are all the more powerful for being presented with such simplicity.
