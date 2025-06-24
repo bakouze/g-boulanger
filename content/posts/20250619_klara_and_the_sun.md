@@ -10,7 +10,7 @@ I recently finished reading *Klara and the Sun* by Kazuo Ishiguro and found it t
 
 The world Klara inhabits is not too far removed from ours: children attend school remotely, socialization is scarce, and society is increasingly stratified by access to advanced technology. By following Klara as she tries to understand and help the sickly teenager Josie, the novel invites us to reflect on what it means to be human in a world shaped by genetic engineering, artificial intelligence, and the human need for meaning.
 
-# Gene Editing and the Collapse of Social Mobility
+## Gene Editing and the Collapse of Social Mobility
 One of the most striking elements of the story is the deep social divide caused by genetic modification. Children are either “Lifted”—a euphemism for being genetically enhanced to boost cognitive performance—or they are not. Josie is lifted; Rick, her closest friend, is not.
 
 The consequences of this binary status are severe. Lifted children have access to better education and future opportunities. In contrast, unmodified children are left with virtually no path to upward mobility. At one point, it’s mentioned that only a single university considers non-lifted candidates—and even then, they accept just 2%. The system is structurally rigged.
@@ -19,7 +19,7 @@ What I found particularly interesting is how Ishiguro softens the notion that li
 
 This seems to be Ishiguro’s point: to benefit from an unfair system, you don’t need an actual advantage—just a socially constructed one. The real danger of gene editing in this context is not the enhancement itself, but how it reinforces inequality and erodes any remaining hope for merit-based mobility.
 
-# AI and the Temptation of Immortality
+## AI and the Temptation of Immortality
 Another central theme is the role of artificial intelligence and its potential to serve as a vessel for immortality. As Josie’s illness worsens, her mother entertains the idea of creating an artificial replica of her daughter—using Klara as the base and transferring everything she learns about Josie into a synthetic copy.
 
 This raises deeply uncomfortable questions. What makes someone who they are? Can a machine programmed with memories and behaviors ever truly replace a person?
@@ -28,7 +28,7 @@ Interestingly, it’s Josie’s father—arguably the more technically literate 
 
 Klara’s willingness to sacrifice herself in this plan adds another layer. She does not question whether it is right or wrong—only whether it will help Josie. It’s a haunting depiction of the utilitarian logic that might one day guide human-AI interactions.
 
-# Belief, Religion, and the Limits of Understanding
+## Belief, Religion, and the Limits of Understanding
 Finally, the novel touches on the human (and artificial) need for belief. Klara develops a form of solar worship, convinced that the sun—her source of energy—also has healing powers that might save Josie. She prays to it, negotiates with it, and performs rituals in its honor.
 
 From a rational perspective, this seems absurd. But for Klara, it provides a sense of agency and purpose. By attributing meaning to her observations—such as a homeless man “resurrected” after a night in the cold—she creates a framework to make sense of the world and her place in it.

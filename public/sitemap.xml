@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://slowfwd.fr/posts/20250619_klara_and_the_sun/</loc><lastmod>2025-06-19T13:51:03+02:00</lastmod></url><url><loc>https://slowfwd.fr/categories/</loc></url><url><loc>https://slowfwd.fr/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/posts/20250623_atomic_habits/</loc>
+    <lastmod>2025-06-23T16:58:56+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/20250619_klara_and_the_sun/</loc>
+    <lastmod>2025-06-19T14:29:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-19T13:00:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2025-06-19T13:00:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-19T13:00:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-05-29T16:50:40+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
