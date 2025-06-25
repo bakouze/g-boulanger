@@ -6,8 +6,6 @@ description: "Why I started this blog, how it helps me think better, and what yo
 tags: ["personal", "reading", "notes", "zettelkasten", "reflection"]
 ---
 
-# Welcome to My Website
-
 Hi! This website is, first and foremost, for me.
 
 I created it as a place to collect and revisit the notes I take on the books I read and the thoughts I have about various topics. If you stumble upon this site and find something useful here, that’s great—but that’s not the primary goal. This is a personal space where I track what I think, how I think, and how my thinking evolves over time.
