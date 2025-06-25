@@ -1,16 +1,25 @@
-+++
-date = '2025-06-18T11:17:10+02:00'
-draft = true
-title = ''
-+++
+---
+title: "Welcome to My Website"
+date: 2025-06-25
+draft: false
+description: "Why I started this blog, how it helps me think better, and what you might find here."
+tags: ["personal", "reading", "notes", "zettelkasten", "reflection"]
+---
 
-# Short presentation
-My name is Guillaume, I guess you could describe me as an introspective adventurer - someone who loves pushing both his body and mind. As a passionate endurance athlete, I find joy and meaning in cycling, running, and the daily pursuit of becoming a bit better than I was yesterday.
+# Welcome to My Website
 
-I’m also deeply curious about how the world works. I find myself drawn to philosophy, economics, and the big questions around free will, consciousness, and human behavior. I enjoy challenging ideas and exploring different perspectives - not just to understand, but to grow.
+Hi! This website is, first and foremost, for me.
 
-Professionally, I work in business intelligence, supporting and leading teams, always looking for ways to improve systems and empower others. Personally, I value presence—quiet moments with loved ones, meaningful conversations, and a good laugh (which people say is pretty distinctive).
+I created it as a place to collect and revisit the notes I take on the books I read and the thoughts I have about various topics. If you stumble upon this site and find something useful here, that’s great—but that’s not the primary goal. This is a personal space where I track what I think, how I think, and how my thinking evolves over time.
 
-I live mostly in the present, but trying to think a few steps ahead - whether it’s learning new things, refining my training, or designing a more intentional life. I guess you could say I like moving forward - just maybe a little slower, and with purpose.
+Some time ago, I realized that my memory—like everyone’s—is imperfect. I forget events, I forget details from books I’ve read, and I even forget insights that once felt important. To some extent, that’s okay. The ideas we absorb often change us subtly, even if we forget where they came from. But I also started to feel that some thoughts are worth preserving—not necessarily the facts themselves, but the reflections and questions they sparked in me.
 
-![](cycling_horizon.JPG)
+In that sense, this site is a kind of time capsule. A place where I can revisit snapshots of my mind at different points in my life.
+
+A turning point for me was reading [“Why Books Don’t Work” by Andy Matuschak](https://andymatuschak.org/books/), which challenged how I thought about reading and memory. That article led me to *How to Take Smart Notes* by Sönke Ahrens, where I discovered the Zettelkasten method: a way of building knowledge by writing and linking short, meaningful notes. I tried using tools like Obsidian to implement it. I watched videos, explored best practices—but the truth is, the habit never fully stuck.
+
+I kept reading, but I rarely paused to take good notes. And when I did, I didn’t invest enough time reviewing or refining them.
+
+So this website is a new attempt. A more public one. I’m committing to publishing **one short article every week**, drawn from my notes, to help me stay accountable and turn this into a long-lasting habit.
+
+If these reflections ever help someone else think differently, or spark an idea—well, that’s the cherry on top.

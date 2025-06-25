@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slowly Forward – Zettelkasten</title>
+    <link>http://localhost:1313/tags/zettelkasten/</link>
+    <description>Recent content in Zettelkasten on Slowly Forward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/zettelkasten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Welcome to My Website</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Welcome to My Website&lt;/h1&gt;&lt;p&gt;Hi! This website is, first and foremost, for me.&lt;/p&gt;
+&lt;p&gt;I created it as a place to collect and revisit the notes I take on the books I read and the thoughts I have about various topics. If you stumble upon this site and find something useful here, that’s great—but that’s not the primary goal. This is a personal space where I track what I think, how I think, and how my thinking evolves over time.&lt;/p&gt;
+&lt;p&gt;Some time ago, I realized that my memory—like everyone’s—is imperfect. I forget events, I forget details from books I’ve read, and I even forget insights that once felt important. To some extent, that’s okay. The ideas we absorb often change us subtly, even if we forget where they came from. But I also started to feel that some thoughts are worth preserving—not necessarily the facts themselves, but the reflections and questions they sparked in me.&lt;/p&gt;
+&lt;p&gt;In that sense, this site is a kind of time capsule. A place where I can revisit snapshots of my mind at different points in my life.&lt;/p&gt;
+&lt;p&gt;A turning point for me was reading &lt;a href=&#34;https://andymatuschak.org/books/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Why Books Don’t Work” by Andy Matuschak&lt;/a&gt;, which challenged how I thought about reading and memory. That article led me to &lt;em&gt;How to Take Smart Notes&lt;/em&gt; by Sönke Ahrens, where I discovered the Zettelkasten method: a way of building knowledge by writing and linking short, meaningful notes. I tried using tools like Obsidian to implement it. I watched videos, explored best practices—but the truth is, the habit never fully stuck.&lt;/p&gt;
+&lt;p&gt;I kept reading, but I rarely paused to take good notes. And when I did, I didn’t invest enough time reviewing or refining them.&lt;/p&gt;
+&lt;p&gt;So this website is a new attempt. A more public one. I’m committing to publishing &lt;strong&gt;one short article every week&lt;/strong&gt;, drawn from my notes, to help me stay accountable and turn this into a long-lasting habit.&lt;/p&gt;
+&lt;p&gt;If these reflections ever help someone else think differently, or spark an idea—well, that’s the cherry on top.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
