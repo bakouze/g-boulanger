@@ -24,6 +24,11 @@ enableGitInfo = true
     width = 40
     height = 20
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [services.googleAnalytics]
 ID = "G-0D56MFYPPL"
 
