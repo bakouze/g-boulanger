@@ -95,3 +95,20 @@ This practice helps me adjust course, stay aligned with my values, and keep grow
 *Atomic Habits* wasn’t just a book I read — it became a framework I use daily. It helped me shift from vague goals to **clear systems**, from self-criticism to **identity reinforcement**, and from occasional motivation to **consistent action**.
 
 If you’ve ever felt stuck, overwhelmed, or inconsistent — I can’t recommend it enough. Start small. Build tiny habits. Let them compound. And eventually, they’ll shape the person you want to be — just like they did for me.
+
+<script src="https://giscus.app/client.js"
+        data-repo="bakouze/slowfwd-discussion"
+        data-repo-id="R_kgDOPRd4qw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOPRd4q84CtUhX"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
