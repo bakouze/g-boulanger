@@ -70,3 +70,20 @@ I probably overdid the carbs the day before (hello, pizza) and didn’t eat enou
 Until next time, Vosges!
 
 ![Vosges](13921_20250720_082452_528118259_original.JPG)
+
+<script src="https://giscus.app/client.js"
+        data-repo="bakouze/slowfwd-discussion"
+        data-repo-id="R_kgDOPRd4qw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOPRd4q84CtUhX"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
