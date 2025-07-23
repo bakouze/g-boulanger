@@ -18,6 +18,6 @@ A turning point for me was reading [“Why Books Don’t Work” by Andy Matusch
 
 I kept reading, but I rarely paused to take good notes. And when I did, I didn’t invest enough time reviewing or refining them.
 
-So this website is a new attempt. A more public one. I’m committing to publishing **one short article every week**, drawn from my notes, to help me stay accountable and turn this into a long-lasting habit.
+So this website is a new attempt. A more public one. I’m committing to publishing **2 short articles every months**, drawn from my notes, to help me stay accountable and turn this into a long-lasting habit.
 
 If these reflections ever help someone else think differently, or spark an idea—well, that’s the cherry on top.
