@@ -6,15 +6,15 @@ description = "How Atomic Habits transformed my life through small, consistent c
 keywords = ["Atomic Habits review", "James Clear habits", "how to build better habits", "small daily improvements", "habit stacking", "identity-based habits", "decision fatigue", "habit tracking", "personal development routines", "book that changed my life", "self-improvement through habits", "marginal gains", "long-term change strategy", "productivity habits", "running and cycling consistency", "how to become more consistent"]
 +++
 
-A few years ago, I stumbled upon a book that ended up shaping who I am today: *Atomic Habits* by James Clear. It didn’t just change how I think — it changed what I *do*, every single day.
+A few years ago, I stumbled upon a book that ended up shaping who I am today: *Atomic Habits* by James Clear. It didn’t just change how I think, it changed what I *do*, every single day.
 
-This book helped me become more active and consistent — in running, cycling, reading, and many other small routines that now shape my daily life. But more importantly, it shifted the way I think about change. It taught me that meaningful transformation doesn’t come from radical overnight overhauls, but from **small, consistent, incremental improvements**. Here's a breakdown of some key ideas that stuck with me and how they've played a role in my own habits.
+This book helped me become more active and consistent in running, cycling, reading, and many other small routines that now shape my daily life. But more importantly, it shifted the way I think about change. It taught me that meaningful transformation doesn’t come from radical overnight overhauls, but from **small, consistent, incremental improvements**. Here's a breakdown of some key ideas that stuck with me and how they've played a role in my own habits.
 
 ---
 
 ## Why Habits Matter: The Power of Automating the Small Stuff
 
-Clear argues that **habits are mental shortcuts** — actions we repeat enough to perform without thinking. And that’s incredibly powerful. By automating the small things, we free up mental energy for what really matters. 
+Clear argues that **habits are mental shortcuts**, actions we repeat enough to perform without thinking. And that’s incredibly powerful. By automating the small things, we free up mental energy for what really matters. 
 
 ### Decision Fatigue is Real
 
@@ -30,19 +30,19 @@ Clear breaks down every habit into a four-step loop:
 
 ### 1. **Cue**: Make it Obvious
 
-I started identifying my bad habits by mapping out my daily actions and rating them as good (+), neutral (=), or bad (-). Then I began using **habit stacking**: placing a new habit right after an existing one. For instance, I started doing strength training *after* my daily bike commute — turning a routine into a trigger.
+I started identifying my bad habits by mapping out my daily actions and rating them as good (+), neutral (=), or bad (-). Then I began using **habit stacking**: placing a new habit right after an existing one. For instance, I started doing strength training *after* my daily bike commute,  turning a routine into a trigger.
 
 ### 2. **Craving**: Make it Attractive
 
-What really struck me was that **we crave not the reward itself but the anticipation**. Just like when I research something I want to buy — I enjoy the search more than the purchase. Clear suggests surrounding ourselves with people who embody the habits we want. That’s been true for me. Just spending time with people who value health, consistency, or curiosity makes me more like them.
+What really struck me was that **we crave not the reward itself but the anticipation**. Just like when I research something I want to buy, I enjoy the search more than the purchase. Clear suggests surrounding ourselves with people who embody the habits we want. That’s been true for me. Just spending time with people who value health, consistency, or curiosity makes me more like them.
 
 ### 3. **Response**: Make it Easy
 
-The **2-minute rule** changed everything. I stopped over-optimizing and started *showing up*. Just doing a habit — even for 2 minutes — helps keep the momentum alive. "The better is the enemy of the good" became a mantra.
+The **2-minute rule** changed everything. I stopped over-optimizing and started *showing up*. Just doing a habit, even for 2 minutes, helps keep the momentum alive. "The better is the enemy of the good" became a mantra.
 
 ### 4. **Reward**: Make it Satisfying
 
-We all crave instant gratification — but healthy habits often only pay off later. Creating a **habit tracker** helped me stay consistent. Even something as simple as checking off a box brings a small reward. And for me, **accountability** really works. Knowing that someone might ask me how things are going pushes me to stick with it.
+We all crave instant gratification, but healthy habits often only pay off later. Creating a **habit tracker** helped me stay consistent. Even something as simple as checking off a box brings a small reward. And for me, **accountability** really works. Knowing that someone might ask me how things are going pushes me to stick with it.
 
 ---
 
@@ -62,17 +62,17 @@ This shift had a huge impact on me. When I started cycling to work, I didn’t c
 
 ## Rediscovering the Value of Boredom
 
-There’s a surprising idea in *Atomic Habits* that I keep coming back to: **embrace boredom**. Doing the same thing every day — even when it gets repetitive — is what leads to mastery. 
+There’s a surprising idea in *Atomic Habits* that I keep coming back to: **embrace boredom**. Doing the same thing every day, even when it gets repetitive, is what leads to mastery. 
 
 Whether it’s running in the same streets or writing in the same journal, progress comes from **sticking with the process, even when it’s not exciting**.
 
-And beyond that — I’ve also started carving out time to be intentionally bored. Disconnecting from screens and stimulation helps me think better, process what I’ve learned, and spark new ideas.
+And beyond that, I’ve also started carving out time to be intentionally bored. Disconnecting from screens and stimulation helps me think better, process what I’ve learned, and spark new ideas.
 
 ---
 
 ## Long-Term Gains: The Compounding Effect
 
-The idea of **marginal gains** hit home for me. Improving just 1% a day may seem small — but it compounds into something big. That’s why habits matter: they allow these small wins to happen automatically over time.
+The idea of **marginal gains** hit home for me. Improving just 1% a day may seem small, but it compounds into something big. That’s why habits matter: they allow these small wins to happen automatically over time.
 
 But it also works the other way. Neglecting small actions or falling into easy temptations can compound negatively. That awareness helps me stay intentional, even when the changes seem minor.
 
@@ -92,9 +92,7 @@ This practice helps me adjust course, stay aligned with my values, and keep grow
 ---
 
 ## Final Thoughts
-*Atomic Habits* wasn’t just a book I read — it became a framework I use daily. It helped me shift from vague goals to **clear systems**, from self-criticism to **identity reinforcement**, and from occasional motivation to **consistent action**.
-
-If you’ve ever felt stuck, overwhelmed, or inconsistent — I can’t recommend it enough. Start small. Build tiny habits. Let them compound. And eventually, they’ll shape the person you want to be — just like they did for me.
+*Atomic Habits* wasn’t just a book I read, it became a framework I use daily. It helped me shift from vague goals to **clear systems**, from self-criticism to **identity reinforcement**, and from occasional motivation to **consistent action**.
 
 <script src="https://giscus.app/client.js"
         data-repo="bakouze/slowfwd-discussion"

@@ -22,7 +22,7 @@ Most of my cycling until now has been comfortable. Not easy, because I have done
 
 The race started at 7:45 AM, so we had to be at the starting point between 7:00 and 7:30. That meant waking up at 5:00 AM for a solid breakfast, coffee, and praying for a good poop (which, sadly, did not happen for me… Mistake #1).
 
-The course began with a 250-meter elevation gain through the forest—a good way to spread out the peloton after the mass start. I tried to stay on Antoine’s wheel, but after 20 minutes at ~300 watts and a heart rate of 160–165 bpm (mistake #2), I realized I was going above my sustainable effort and decided to let him go. I settled into my own rhythm.
+The course began with a 250-meter elevation gain through the forest, a good way to spread out the peloton after the mass start. I tried to stay on Antoine’s wheel, but after 20 minutes at ~300 watts and a heart rate of 160–165 bpm (mistake #2), I realized I was going above my sustainable effort and decided to let him go. I settled into my own rhythm.
 
 To my relief, the mass start was far less chaotic than I feared. I didn’t feel in danger, and the energy of the race was actually thrilling.
 
@@ -42,15 +42,15 @@ From there, the day became a blur of fast descents and rolling climbs until I re
 
 A small relief came from the local residents spraying us with water hoses: an absolute lifesaver in the heat! Although… it also mixed with sweat, gels, and dirt on my sunglasses, blinding me for the next descent.
 
-Directly after that descent came the last real climb of the day, a challenging (but lesser-known) climb of around 660 meters. I was happy it was the final real ascent of the day—until the cramps started. I had to stop twice to stretch, and I couldn’t push hard on the flatter sections which are usually my strong suit!
+Directly after that descent came the last real climb of the day, a challenging (but lesser-known) climb of around 660 meters. I was happy it was the final real ascent of the day, until the cramps started. I had to stop twice to stretch, and I couldn’t push hard on the flatter sections which are usually my strong suit!
 
 ## Final Push
 
 ![Ride-on!](13921_20250720_083449_528065180_original.JPG)
 
-At the last aid station on the Grand Ballon, I downed some isotonic drinks and even ate salt packets—desperate times! That helped reduce the cramps, and I managed to push through the final 20 km: 15 km of descent and 5 km of flat(ish) road back to Thann.
+At the last aid station on the Grand Ballon, I downed some isotonic drinks and even ate salt packets, desperate times! That helped reduce the cramps, and I managed to push through the final 20 km: 15 km of descent and 5 km of flat(ish) road back to Thann.
 
-I crossed the finish line after 6 hours and 30 minutes—exhausted, proud, and humbled. Antoine and Steven finished 15 and 30 minutes ahead of me, and while I wish I could’ve competed with them more closely, I am happy I gave my best effort!
+I crossed the finish line after 6 hours and 30 minutes, exhausted, proud, and humbled. Antoine and Steven finished 15 and 30 minutes ahead of me, and while I wish I could’ve competed with them more closely, I am happy I gave my best effort!
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15176158148" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
@@ -61,7 +61,7 @@ This race taught me more than I expected, not just about endurance, but about st
 ### 1. Pace yourself at the start.
 At the beginning of a race, especially a mass start, it’s easy to get swept up in the adrenaline. You feel fresh, strong, and excited. But going too hard in the early climbs can burn matches you’ll need later. Trust your pacing plan and ride your own race. You’ll thank yourself on the final climb.
 
-### 2.	Don’t underestimate hydration and fueling—especially on a hot day.
+### 2.	Don’t underestimate hydration and fueling, especially on a hot day.
 I made the rookie mistake of skipping the first feed station to save a few minutes. That choice came back to haunt me in the form of cramps and fatigue during the last climbs. Even if you’re feeling good early on, use the feed zones to refill bottles and plan sufficient electrolytes on hot days.
 
 ### 3.	Pre-race nutrition matters more than you think.
