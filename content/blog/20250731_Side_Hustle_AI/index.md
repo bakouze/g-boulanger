@@ -41,3 +41,20 @@ Step by step, the questions helped me connect dots and learn about my motivation
 ## What’s Next
 
 I don’t know yet where this experiment will lead, but that’s exactly the point. This time, the journey matters more than the outcome. Building a side project with AI isn’t about chasing the next big thing; it’s about using powerful new tools to learn, create, and grow along the way.
+
+<script src="https://giscus.app/client.js"
+        data-repo="bakouze/slowfwd-discussion"
+        data-repo-id="R_kgDOPRd4qw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOPRd4q84CtUhX"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

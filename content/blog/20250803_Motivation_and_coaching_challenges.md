@@ -33,3 +33,20 @@ In an era where **AI can process and personalize vast amounts of data instantly*
 - **Meets beginners where they are**, removing friction, building habits safely, and keeping motivation high.
 - **Optimizes advanced athletes’ training**, integrating all available data (training load, recovery, nutrition, sleep) to adapt plans in real time.
 - **Democratizes elite-level coaching**, making it accessible at a fraction of the cost.
+
+<script src="https://giscus.app/client.js"
+        data-repo="bakouze/slowfwd-discussion"
+        data-repo-id="R_kgDOPRd4qw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOPRd4q84CtUhX"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
