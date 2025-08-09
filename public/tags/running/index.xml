@@ -1,42 +1,72 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slowly Forward – Running</title><link>https://slowfwd.fr/tags/running/</link><description>Recent content in Running on Slowly Forward</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://slowfwd.fr/tags/running/index.xml" rel="self" type="application/rss+xml"/><item><title>The Motivation &amp; Coaching Gap in Endurance Sports</title><link>https://slowfwd.fr/blog/motivation-coaching-gap-endurance-sport/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://slowfwd.fr/blog/motivation-coaching-gap-endurance-sport/</guid><description>
-&lt;p>Over the past five years, both in my own athletic journey and through helping friends start running or cycling, I’ve seen the same problem repeatedly: &lt;strong>people are either stuck at the starting line or plateau far below their potential&lt;/strong>, not because they lack discipline, but because the tools, advice, and support they need are fragmented, impersonal, and often counterproductive.&lt;/p>
-&lt;h2>1. For Beginners: Getting Started Feels Overwhelming or Risky&lt;span class="hx-absolute -hx-mt-20" id="1-for-beginners-getting-started-feels-overwhelming-or-risky">&lt;/span>
-&lt;a href="#1-for-beginners-getting-started-feels-overwhelming-or-risky" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;strong>Motivation barrier&lt;/strong>: Many aspiring runners or cyclists never take the first step. Advice online is contradictory, intimidating, and disconnected from their personal situation.&lt;/li>
-&lt;li>&lt;strong>No easy entry point&lt;/strong>: Establishing a routine feels impossible without structure or feedback.&lt;/li>
-&lt;li>&lt;strong>The “Strava trap”&lt;/strong>: Motivated beginners often do too much too soon, chasing metrics and public validation. They feel embarrassed to post short, slow workouts, push beyond safe limits, get injured, and quit for months.&lt;/li>
-&lt;li>&lt;strong>One-size-fits-all advice&lt;/strong>: Current beginner training plans treat all novices the same, ignoring starting fitness, health conditions, or past athletic experience. An already-fit cyclist and an overweight sedentary beginner get the same generic plan, which is ineffective for both.&lt;/li>
-&lt;/ul>
-&lt;h2>2. For Intermediate &amp;amp; Advanced Amateurs: Training Is Fragmented and Untailored&lt;span class="hx-absolute -hx-mt-20" id="2-for-intermediate--advanced-amateurs-training-is-fragmented-and-untailored">&lt;/span>
-&lt;a href="#2-for-intermediate--advanced-amateurs-training-is-fragmented-and-untailored" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;strong>Scattered tools&lt;/strong>: Athletes juggle multiple platforms for plans (TrainingPeaks, Garmin Coach), tracking (Garmin, Strava, Whoop), and nutrition, none of which talk to each other.&lt;/li>
-&lt;li>&lt;strong>Generic or expensive plans&lt;/strong>: Paid plans are static, rarely adapted to real-life performance. Coaches can personalize but are expensive, slow to respond, and limited by human bandwidth.&lt;/li>
-&lt;li>&lt;strong>No true multi-sport integration&lt;/strong>: Marathon plans don’t account for cycling and strength training sessions; triathlon training doesn’t dynamically adapt to changes in any single discipline.&lt;/li>
-&lt;li>&lt;strong>No holistic adaptation&lt;/strong>: Current tools don’t combine training data with recovery, sleep, nutrition, and goals to provide integrated, real-time adjustments.&lt;/li>
-&lt;li>&lt;strong>Multiple goals conflict&lt;/strong>: Athletes with diverse objectives (e.g., sub-3 marathon, summer bike races, muscle building) are left to manually reconcile conflicting advice and plans.&lt;/li>
-&lt;li>&lt;strong>Nutrition &amp;amp; supplementation ignored&lt;/strong>: Most training plans are blind to dietary habits, micronutrient deficiencies, or supplements that could improve performance.&lt;/li>
-&lt;/ul>
-&lt;h2>3. The Core Gap: A True AI-Powered, Holistic Coach for All Athletes&lt;span class="hx-absolute -hx-mt-20" id="3-the-core-gap-a-true-ai-powered-holistic-coach-for-all-athletes">&lt;/span>
-&lt;a href="#3-the-core-gap-a-true-ai-powered-holistic-coach-for-all-athletes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Today, only &lt;strong>professional athletes with full-time coaches, nutritionists, and health staff&lt;/strong> can truly optimize every aspect of training and health. For everyone else, data already captured by smartwatches and health trackers sits underused in silos.&lt;/p>
-&lt;p>In an era where &lt;strong>AI can process and personalize vast amounts of data instantly&lt;/strong>, it is absurd that most athletes, beginner or advanced, still rely on static, generic advice. There’s a massive opportunity for an &lt;strong>AI-driven, fully integrated coaching solution&lt;/strong> that:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Meets beginners where they are&lt;/strong>, removing friction, building habits safely, and keeping motivation high.&lt;/li>
-&lt;li>&lt;strong>Optimizes advanced athletes’ training&lt;/strong>, integrating all available data (training load, recovery, nutrition, sleep) to adapt plans in real time.&lt;/li>
-&lt;li>&lt;strong>Democratizes elite-level coaching&lt;/strong>, making it accessible at a fraction of the cost.&lt;/li>
-&lt;/ul>
-&lt;script src="https://giscus.app/client.js"
-data-repo="bakouze/slowfwd-discussion"
-data-repo-id="R_kgDOPRd4qw"
-data-category="Announcements"
-data-category-id="DIC_kwDOPRd4q84CtUhX"
-data-mapping="pathname"
-data-strict="0"
-data-reactions-enabled="1"
-data-emit-metadata="0"
-data-input-position="top"
-data-theme="light"
-data-lang="en"
-data-loading="lazy"
-crossorigin="anonymous"
-async>
-&lt;/script></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slowly Forward – Running</title>
+    <link>http://localhost:1313/tags/running/</link>
+    <description>Recent content in Running on Slowly Forward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/running/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>The Motivation &amp; Coaching Gap in Endurance Sports</title>
+      <link>http://localhost:1313/blog/motivation-coaching-gap-endurance-sport/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/motivation-coaching-gap-endurance-sport/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Over the past five years, both in my own athletic journey and through helping friends start running or cycling, I’ve seen the same problem repeatedly: &lt;strong&gt;people are either stuck at the starting line or plateau far below their potential&lt;/strong&gt;, not because they lack discipline, but because the tools, advice, and support they need are fragmented, impersonal, and often counterproductive.&lt;/p&gt;
+&lt;h2&gt;1. For Beginners: Getting Started Feels Overwhelming or Risky&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-for-beginners-getting-started-feels-overwhelming-or-risky&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-for-beginners-getting-started-feels-overwhelming-or-risky&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Motivation barrier&lt;/strong&gt;: Many aspiring runners or cyclists never take the first step. Advice online is contradictory, intimidating, and disconnected from their personal situation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No easy entry point&lt;/strong&gt;: Establishing a routine feels impossible without structure or feedback.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The “Strava trap”&lt;/strong&gt;: Motivated beginners often do too much too soon, chasing metrics and public validation. They feel embarrassed to post short, slow workouts, push beyond safe limits, get injured, and quit for months.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-size-fits-all advice&lt;/strong&gt;: Current beginner training plans treat all novices the same, ignoring starting fitness, health conditions, or past athletic experience. An already-fit cyclist and an overweight sedentary beginner get the same generic plan, which is ineffective for both.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2. For Intermediate &amp;amp; Advanced Amateurs: Training Is Fragmented and Untailored&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-for-intermediate--advanced-amateurs-training-is-fragmented-and-untailored&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-for-intermediate--advanced-amateurs-training-is-fragmented-and-untailored&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scattered tools&lt;/strong&gt;: Athletes juggle multiple platforms for plans (TrainingPeaks, Garmin Coach), tracking (Garmin, Strava, Whoop), and nutrition, none of which talk to each other.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generic or expensive plans&lt;/strong&gt;: Paid plans are static, rarely adapted to real-life performance. Coaches can personalize but are expensive, slow to respond, and limited by human bandwidth.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No true multi-sport integration&lt;/strong&gt;: Marathon plans don’t account for cycling and strength training sessions; triathlon training doesn’t dynamically adapt to changes in any single discipline.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No holistic adaptation&lt;/strong&gt;: Current tools don’t combine training data with recovery, sleep, nutrition, and goals to provide integrated, real-time adjustments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multiple goals conflict&lt;/strong&gt;: Athletes with diverse objectives (e.g., sub-3 marathon, summer bike races, muscle building) are left to manually reconcile conflicting advice and plans.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nutrition &amp;amp; supplementation ignored&lt;/strong&gt;: Most training plans are blind to dietary habits, micronutrient deficiencies, or supplements that could improve performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. The Core Gap: A True AI-Powered, Holistic Coach for All Athletes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-the-core-gap-a-true-ai-powered-holistic-coach-for-all-athletes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-the-core-gap-a-true-ai-powered-holistic-coach-for-all-athletes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Today, only &lt;strong&gt;professional athletes with full-time coaches, nutritionists, and health staff&lt;/strong&gt; can truly optimize every aspect of training and health. For everyone else, data already captured by smartwatches and health trackers sits underused in silos.&lt;/p&gt;
+&lt;p&gt;In an era where &lt;strong&gt;AI can process and personalize vast amounts of data instantly&lt;/strong&gt;, it is absurd that most athletes, beginner or advanced, still rely on static, generic advice. There’s a massive opportunity for an &lt;strong&gt;AI-driven, fully integrated coaching solution&lt;/strong&gt; that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Meets beginners where they are&lt;/strong&gt;, removing friction, building habits safely, and keeping motivation high.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Optimizes advanced athletes’ training&lt;/strong&gt;, integrating all available data (training load, recovery, nutrition, sleep) to adapt plans in real time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Democratizes elite-level coaching&lt;/strong&gt;, making it accessible at a fraction of the cost.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;bakouze/slowfwd-discussion&#34;
+        data-repo-id=&#34;R_kgDOPRd4qw&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOPRd4q84CtUhX&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;top&#34;
+        data-theme=&#34;light&#34;
+        data-lang=&#34;en&#34;
+        data-loading=&#34;lazy&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

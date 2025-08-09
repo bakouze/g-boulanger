@@ -9,8 +9,40 @@ enableGitInfo = true
 [[module.imports]]
   path = "github.com/imfing/hextra"
 
+# Performance optimizations
+minify = true
+disableKinds = ["taxonomy", "term"]
+
+# Image processing
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"
+
+# SEO and meta tags
 [params]
   author = "Guillaume Boulanger"
+  authorURL = "https://slowfwd.fr/"
+  defaultTheme = "auto"
+  
+  # SEO settings
+  [params.seo]
+    googleAnalytics = "G-0D56MFYPPL"
+    googleSiteVerification = ""
+    baiduSiteVerification = ""
+    yandexSiteVerification = ""
+    bingSiteVerification = ""
+    
+  # Open Graph
+  [params.openGraph]
+    image = "/images/og-default.jpg"
+    imageWidth = 1200
+    imageHeight = 630
+    
+  # Reading time
+  [params.readingTime]
+    enabled = true
+    wordsPerMinute = 200
+    
   [params.navbar]
   displayTitle = true
   displayLogo = false
@@ -24,14 +56,27 @@ enableGitInfo = true
     width = 40
     height = 20
 
+# Markup settings
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+  [markup.highlight]
+    noClasses = false
+    style = "github"
+    lineNos = true
+    lineNumbersInTable = true
+    noHl = false
+    hlLines = ""
+    hlInverse = false
 
+# Google Analytics
 [services.googleAnalytics]
 ID = "G-0D56MFYPPL"
 
+# Menu configuration
 [menu]
   [[menu.main]]
   name = "Blog"
@@ -49,3 +94,27 @@ ID = "G-0D56MFYPPL"
 
   [menu.main.params]
     type = "search"
+
+# Taxonomies for better content organization
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+# Output formats
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss"
+    baseName = "feed"
+    isPlainText = true
+    notAlternative = true
+
+# Security headers
+[security]
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^babel$', '^git$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+  [security.http]
+    methods = ['(?i)GET|POST|HEAD']
+    schemes = ['(?i)HTTP|HTTPS']
+    urlRegexp = '.*'

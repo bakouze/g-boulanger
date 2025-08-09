@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Guillaume Boulanger",
+  "url": "https://slowfwd.fr/",
+  "image": "static/images/g-boulanger.jpeg",
+  "description": "Business intelligence professional, endurance athlete, and philosophy enthusiast. Writing about personal development, endurance sports, and deep thinking.",
+  "jobTitle": "Business Intelligence Professional",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Amazon"
+  },
+  "knowsAbout": [
+    "Business Intelligence",
+    "Endurance Sports",
+    "Cycling",
+    "Running",
+    "Philosophy",
+    "Personal Development",
+    "Data Analysis",
+    "Habit Building"
+  ],
+  "sameAs": [
+    "https://linkedin.com/in/g-boulanger"
+  ],
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "Illinois Institute of Technology"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "Luxembourg"
+  }
+}
