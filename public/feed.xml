@@ -1,223 +1,300 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slowly Forward – Welcome to My Website</title><link>https://slowfwd.fr/</link><description>Recent content in Welcome to My Website on Slowly Forward</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://slowfwd.fr/feed.xml" rel="self" type="application/rss+xml"/><item><title>The Motivation & Coaching Gap in Endurance Sports</title><link>https://slowfwd.fr/blog/motivation-coaching-gap-endurance-sport/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://slowfwd.fr/blog/motivation-coaching-gap-endurance-sport/</guid><description>
-&lt;p>Over the past five years, both in my own athletic journey and through helping friends start running or cycling, I’ve seen the same problem repeatedly: &lt;strong>people are either stuck at the starting line or plateau far below their potential&lt;/strong>, not because they lack discipline, but because the tools, advice, and support they need are fragmented, impersonal, and often counterproductive.&lt;/p>
-&lt;h2>1. For Beginners: Getting Started Feels Overwhelming or Risky&lt;span class="hx-absolute -hx-mt-20" id="1-for-beginners-getting-started-feels-overwhelming-or-risky">&lt;/span>
-&lt;a href="#1-for-beginners-getting-started-feels-overwhelming-or-risky" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;strong>Motivation barrier&lt;/strong>: Many aspiring runners or cyclists never take the first step. Advice online is contradictory, intimidating, and disconnected from their personal situation.&lt;/li>
-&lt;li>&lt;strong>No easy entry point&lt;/strong>: Establishing a routine feels impossible without structure or feedback.&lt;/li>
-&lt;li>&lt;strong>The “Strava trap”&lt;/strong>: Motivated beginners often do too much too soon, chasing metrics and public validation. They feel embarrassed to post short, slow workouts, push beyond safe limits, get injured, and quit for months.&lt;/li>
-&lt;li>&lt;strong>One-size-fits-all advice&lt;/strong>: Current beginner training plans treat all novices the same, ignoring starting fitness, health conditions, or past athletic experience. An already-fit cyclist and an overweight sedentary beginner get the same generic plan, which is ineffective for both.&lt;/li>
-&lt;/ul>
-&lt;h2>2. For Intermediate &amp;amp; Advanced Amateurs: Training Is Fragmented and Untailored&lt;span class="hx-absolute -hx-mt-20" id="2-for-intermediate--advanced-amateurs-training-is-fragmented-and-untailored">&lt;/span>
-&lt;a href="#2-for-intermediate--advanced-amateurs-training-is-fragmented-and-untailored" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;strong>Scattered tools&lt;/strong>: Athletes juggle multiple platforms for plans (TrainingPeaks, Garmin Coach), tracking (Garmin, Strava, Whoop), and nutrition, none of which talk to each other.&lt;/li>
-&lt;li>&lt;strong>Generic or expensive plans&lt;/strong>: Paid plans are static, rarely adapted to real-life performance. Coaches can personalize but are expensive, slow to respond, and limited by human bandwidth.&lt;/li>
-&lt;li>&lt;strong>No true multi-sport integration&lt;/strong>: Marathon plans don’t account for cycling and strength training sessions; triathlon training doesn’t dynamically adapt to changes in any single discipline.&lt;/li>
-&lt;li>&lt;strong>No holistic adaptation&lt;/strong>: Current tools don’t combine training data with recovery, sleep, nutrition, and goals to provide integrated, real-time adjustments.&lt;/li>
-&lt;li>&lt;strong>Multiple goals conflict&lt;/strong>: Athletes with diverse objectives (e.g., sub-3 marathon, summer bike races, muscle building) are left to manually reconcile conflicting advice and plans.&lt;/li>
-&lt;li>&lt;strong>Nutrition &amp;amp; supplementation ignored&lt;/strong>: Most training plans are blind to dietary habits, micronutrient deficiencies, or supplements that could improve performance.&lt;/li>
-&lt;/ul>
-&lt;h2>3. The Core Gap: A True AI-Powered, Holistic Coach for All Athletes&lt;span class="hx-absolute -hx-mt-20" id="3-the-core-gap-a-true-ai-powered-holistic-coach-for-all-athletes">&lt;/span>
-&lt;a href="#3-the-core-gap-a-true-ai-powered-holistic-coach-for-all-athletes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Today, only &lt;strong>professional athletes with full-time coaches, nutritionists, and health staff&lt;/strong> can truly optimize every aspect of training and health. For everyone else, data already captured by smartwatches and health trackers sits underused in silos.&lt;/p>
-&lt;p>In an era where &lt;strong>AI can process and personalize vast amounts of data instantly&lt;/strong>, it is absurd that most athletes, beginner or advanced, still rely on static, generic advice. There’s a massive opportunity for an &lt;strong>AI-driven, fully integrated coaching solution&lt;/strong> that:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Meets beginners where they are&lt;/strong>, removing friction, building habits safely, and keeping motivation high.&lt;/li>
-&lt;li>&lt;strong>Optimizes advanced athletes’ training&lt;/strong>, integrating all available data (training load, recovery, nutrition, sleep) to adapt plans in real time.&lt;/li>
-&lt;li>&lt;strong>Democratizes elite-level coaching&lt;/strong>, making it accessible at a fraction of the cost.&lt;/li>
-&lt;/ul>
-&lt;script src="https://giscus.app/client.js"
-data-repo="bakouze/slowfwd-discussion"
-data-repo-id="R_kgDOPRd4qw"
-data-category="Announcements"
-data-category-id="DIC_kwDOPRd4q84CtUhX"
-data-mapping="pathname"
-data-strict="0"
-data-reactions-enabled="1"
-data-emit-metadata="0"
-data-input-position="top"
-data-theme="light"
-data-lang="en"
-data-loading="lazy"
-crossorigin="anonymous"
-async>
-&lt;/script></description></item><item><title>Starting a Side Project with AI: From Childhood Dreams to Modern Experiments</title><link>https://slowfwd.fr/blog/side-project-with-ai/</link><pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate><guid>https://slowfwd.fr/blog/side-project-with-ai/</guid><description>
-&lt;img src="AI_startup_journey.png" alt="AI Startup Journey" loading="lazy" />&lt;p>I’ve always been fascinated by the idea of creating my own business. As a child, my dream wasn’t to start a startup or join a big company: it was to invent a teleportation device. I suffered from motion sickness and imagined how wonderful it would be to zap from one place to another without the long, uncomfortable hours in between.&lt;/p>
-&lt;p>Years later, while studying in Chicago, three friends and I took our first real shot at entrepreneurship. What started as a class assignment grew into something bigger: a startup idea we called HubRoad. The concept was simple but powerful: help students track their job applications in one place, while also providing key resources like interview prep tips and company insights.&lt;/p>
-&lt;p>We learned so much in the process: built a business strategy, created a pitch deck, developed a Minimum Viable Product, and coded both the front and back ends ourselves. We even won a prize in our school’s startup competition. At the time, we dreamed big! We wanted to become the next Elon Musk and be rich and famous.&lt;/p>
-&lt;p>But reality soon caught up with us. We graduated, started our careers, and struggled to keep the project alive while working full-time and living in different cities. Eventually, HubRoad faded away.&lt;/p>
-&lt;h2>A Shift in Motivation&lt;span class="hx-absolute -hx-mt-20" id="a-shift-in-motivation">&lt;/span>
-&lt;a href="#a-shift-in-motivation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Now, several years later, I find myself drawn again to the idea of starting a side project. But this time, my motivation is different. I’m not chasing fame or fortune, I want to keep learning. Technology and business strategies evolved so quickly that the best way to stay curious is to experiment firsthand.&lt;/p>
-&lt;p>The biggest difference compared to ten years ago? We now have AI as a creative partner. Instead of staring at a blank page or waiting for inspiration, I can brainstorm with ChatGPT and generate ideas step by step.&lt;/p>
-&lt;p>Recently, inspired by Anne-Laure Le Cunff’s book Tiny Experiments, I decided to run one myself. I opened ChatGPT and typed:&lt;/p>
-&lt;p>“Can you ask me a set of questions, one after the other, to help me figure out the best side hustle opportunity based on my skills?”&lt;/p>
-&lt;h2>The Power of AI Brainstorming&lt;span class="hx-absolute -hx-mt-20" id="the-power-of-ai-brainstorming">&lt;/span>
-&lt;a href="#the-power-of-ai-brainstorming" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The experience surprised me. Instead of spitting out random suggestions, ChatGPT guided me through a reflection process:&lt;/p>
-&lt;ul>
-&lt;li>What skills do I enjoy using?&lt;/li>
-&lt;li>What motivates me?&lt;/li>
-&lt;li>What problems do I care about solving?&lt;/li>
-&lt;/ul>
-&lt;p>Step by step, the questions helped me connect dots and learn about my motivations. By the end, I had landed on an idea that felt like me: &lt;strong>a habit-building app for aspiring runners and cyclists that rewards consistency and small wins&lt;/strong>.&lt;/p>
-&lt;h2>What’s Next&lt;span class="hx-absolute -hx-mt-20" id="whats-next">&lt;/span>
-&lt;a href="#whats-next" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>I don’t know yet where this experiment will lead, but that’s exactly the point. This time, the journey matters more than the outcome. Building a side project with AI isn’t about chasing the next big thing; it’s about using powerful new tools to learn, create, and grow along the way.&lt;/p>
-&lt;script src="https://giscus.app/client.js"
-data-repo="bakouze/slowfwd-discussion"
-data-repo-id="R_kgDOPRd4qw"
-data-category="Announcements"
-data-category-id="DIC_kwDOPRd4q84CtUhX"
-data-mapping="pathname"
-data-strict="0"
-data-reactions-enabled="1"
-data-emit-metadata="0"
-data-input-position="top"
-data-theme="light"
-data-lang="en"
-data-loading="lazy"
-crossorigin="anonymous"
-async>
-&lt;/script></description></item><item><title>My First Real Bike Race – GFNY Grand Ballon 2025</title><link>https://slowfwd.fr/blog/20250722_gfny_grand_ballon/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://slowfwd.fr/blog/20250722_gfny_grand_ballon/</guid><description>
-&lt;p>Today was a great milestone: I raced my first official bike race the &lt;a href="https://grandballon.gfny.com/?lang=en" target="_blank" rel="noopener">GFNY Grand Ballon&lt;/a>!&lt;/p>
-&lt;img src="GFNY-Grand-Ballon-course-map-25-1.png" alt="GFNY Grand Ballon - Route" loading="lazy" />&lt;img src="GFNY_profile.png" alt="GFNY Grand Ballon - Profile" loading="lazy" />&lt;p>I’ve done several running events, including three marathons, and multiple triathlons such as the Luxembourg Ironman 70.3. But until now, I had never taken part in a pure cycling race. I had always pushed the idea back, partly out of fear: fear of the mass start, fear of high-speed descents surrounded by other riders, and probably, fear of confronting my real limits as a cyclist.&lt;/p>
-&lt;p>Most of my cycling until now has been comfortable. Not easy, because I have done several challenging 300+ km rides such as the lap of Mallorca or the Tour of Luxembourg, but it was always in relaxed environment with my friends, stopping when we felt like it. Those rides have always been about endurance, not intensity. Racing on steep climbs, my weakest terrain, felt intimidating.&lt;/p>
-&lt;h2>The Race Day&lt;span class="hx-absolute -hx-mt-20" id="the-race-day">&lt;/span>
-&lt;a href="#the-race-day" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;img src="13921_20250720_135703_528105856_original.JPG" alt="Let’s go!" loading="lazy" />&lt;p>The race started at 7:45 AM, so we had to be at the starting point between 7:00 and 7:30. That meant waking up at 5:00 AM for a solid breakfast, coffee, and praying for a good poop (which, sadly, did not happen for me… Mistake #1).&lt;/p>
-&lt;p>The course began with a 250-meter elevation gain through the forest, a good way to spread out the peloton after the mass start. I tried to stay on Antoine’s wheel, but after 20 minutes at ~300 watts and a heart rate of 160–165 bpm (mistake #2), I realized I was going above my sustainable effort and decided to let him go. I settled into my own rhythm.&lt;/p>
-&lt;p>To my relief, the mass start was far less chaotic than I feared. I didn’t feel in danger, and the energy of the race was actually thrilling.&lt;/p>
-&lt;h2>The Grand Ballon&lt;span class="hx-absolute -hx-mt-20" id="the-grand-ballon">&lt;/span>
-&lt;a href="#the-grand-ballon" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;img src="13921_20250720_095313_528102623_original.JPG" alt="Grand Ballon d’Alsace" loading="lazy" />&lt;p>After the first climb and a fast descent back to Thann, where riders passed me from both sides at lightning speed, we reached the most iconic climb of the day: the &lt;strong>Grand Ballon d’Alsace&lt;/strong>. Around 1,000 meters of elevation at a steady 6%. I paced myself carefully, following my Garmin Power Guide, and reached the top after about an hour.&lt;/p>
-&lt;p>There was a food station at the summit, which I skipped thinking that I had enough water and would gain more time by pushing to the next feed station (mistake #3).&lt;/p>
-&lt;h2>The Petit Ballon and Beyond&lt;span class="hx-absolute -hx-mt-20" id="the-petit-ballon-and-beyond">&lt;/span>
-&lt;a href="#the-petit-ballon-and-beyond" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;img src="13921_20250720_110300_528085904_original.JPG" alt="Petit Ballon" loading="lazy" />&lt;p>From there, the day became a blur of fast descents and rolling climbs until I reached the dreaded &lt;strong>Petit Ballon&lt;/strong>. It’s “petit” only in name: around 750 meters of climbing, with punishingly irregular gradients and multiple steep sections above 10%. My legs started to feel very heavy and I was struggling to follow my planned power.&lt;/p>
-&lt;p>A small relief came from the local residents spraying us with water hoses: an absolute lifesaver in the heat! Although… it also mixed with sweat, gels, and dirt on my sunglasses, blinding me for the next descent.&lt;/p>
-&lt;p>Directly after that descent came the last real climb of the day, a challenging (but lesser-known) climb of around 660 meters. I was happy it was the final real ascent of the day, until the cramps started. I had to stop twice to stretch, and I couldn’t push hard on the flatter sections which are usually my strong suit!&lt;/p>
-&lt;h2>Final Push&lt;span class="hx-absolute -hx-mt-20" id="final-push">&lt;/span>
-&lt;a href="#final-push" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;img src="13921_20250720_083449_528065180_original.JPG" alt="Ride-on!" loading="lazy" />&lt;p>At the last aid station on the Grand Ballon, I downed some isotonic drinks and even ate salt packets, desperate times! That helped reduce the cramps, and I managed to push through the final 20 km: 15 km of descent and 5 km of flat(ish) road back to Thann.&lt;/p>
-&lt;p>I crossed the finish line after 6 hours and 30 minutes, exhausted, proud, and humbled. Antoine and Steven finished 15 and 30 minutes ahead of me, and while I wish I could’ve competed with them more closely, I am happy I gave my best effort!&lt;/p>
-&lt;div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15176158148" data-style="standard" data-from-embed="false">&lt;/div>&lt;script src="https://strava-embeds.com/embed.js">&lt;/script>
-&lt;h2>Reflections&lt;span class="hx-absolute -hx-mt-20" id="reflections">&lt;/span>
-&lt;a href="#reflections" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This race taught me more than I expected, not just about endurance, but about strategy, fueling, and preparation. I made a few key mistakes along the way, and I’m glad I did, because I won’t repeat them next time. Here are the biggest lessons I’m taking with me:&lt;/p>
-&lt;h3>1. Pace yourself at the start.&lt;span class="hx-absolute -hx-mt-20" id="1-pace-yourself-at-the-start">&lt;/span>
-&lt;a href="#1-pace-yourself-at-the-start" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>At the beginning of a race, especially a mass start, it’s easy to get swept up in the adrenaline. You feel fresh, strong, and excited. But going too hard in the early climbs can burn matches you’ll need later. Trust your pacing plan and ride your own race. You’ll thank yourself on the final climb.&lt;/p>
-&lt;h3>2. Don’t underestimate hydration and fueling, especially on a hot day.&lt;span class="hx-absolute -hx-mt-20" id="2dont-underestimate-hydration-and-fueling-especially-on-a-hot-day">&lt;/span>
-&lt;a href="#2dont-underestimate-hydration-and-fueling-especially-on-a-hot-day" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>I made the rookie mistake of skipping the first feed station to save a few minutes. That choice came back to haunt me in the form of cramps and fatigue during the last climbs. Even if you’re feeling good early on, use the feed zones to refill bottles and plan sufficient electrolytes on hot days.&lt;/p>
-&lt;h3>3. Pre-race nutrition matters more than you think.&lt;span class="hx-absolute -hx-mt-20" id="3pre-race-nutrition-matters-more-than-you-think">&lt;/span>
-&lt;a href="#3pre-race-nutrition-matters-more-than-you-think" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>I probably overdid the carbs the day before (hello, pizza) and didn’t eat enough fiber. It felt great in the moment, but it may have contributed to a frustratingly absent morning poop, which added a layer of discomfort on race day. In future races, I’ll aim for more balanced meals in the days leading up, including some fiber to keep things moving naturally.&lt;/p>
-&lt;p>Until next time, Vosges!&lt;/p>
-&lt;img src="13921_20250720_082452_528118259_original.JPG" alt="Vosges" loading="lazy" />&lt;script src="https://giscus.app/client.js"
-data-repo="bakouze/slowfwd-discussion"
-data-repo-id="R_kgDOPRd4qw"
-data-category="Announcements"
-data-category-id="DIC_kwDOPRd4q84CtUhX"
-data-mapping="pathname"
-data-strict="0"
-data-reactions-enabled="1"
-data-emit-metadata="0"
-data-input-position="top"
-data-theme="light"
-data-lang="en"
-data-loading="lazy"
-crossorigin="anonymous"
-async>
-&lt;/script></description></item><item><title>How Atomic Habits Changed My Life</title><link>https://slowfwd.fr/blog/20250623_atomic_habits/</link><pubDate>Mon, 23 Jun 2025 16:58:56 +0200</pubDate><guid>https://slowfwd.fr/blog/20250623_atomic_habits/</guid><description>
-&lt;p>A few years ago, I stumbled upon a book that ended up shaping who I am today: &lt;em>Atomic Habits&lt;/em> by James Clear. It didn’t just change how I think, it changed what I &lt;em>do&lt;/em>, every single day.&lt;/p>
-&lt;p>This book helped me become more active and consistent in running, cycling, reading, and many other small routines that now shape my daily life. But more importantly, it shifted the way I think about change. It taught me that meaningful transformation doesn’t come from radical overnight overhauls, but from &lt;strong>small, consistent, incremental improvements&lt;/strong>. Here&amp;rsquo;s a breakdown of some key ideas that stuck with me and how they&amp;rsquo;ve played a role in my own habits.&lt;/p>
-&lt;hr>
-&lt;h2>Why Habits Matter: The Power of Automating the Small Stuff&lt;span class="hx-absolute -hx-mt-20" id="why-habits-matter-the-power-of-automating-the-small-stuff">&lt;/span>
-&lt;a href="#why-habits-matter-the-power-of-automating-the-small-stuff" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clear argues that &lt;strong>habits are mental shortcuts&lt;/strong>, actions we repeat enough to perform without thinking. And that’s incredibly powerful. By automating the small things, we free up mental energy for what really matters.&lt;/p>
-&lt;h3>Decision Fatigue is Real&lt;span class="hx-absolute -hx-mt-20" id="decision-fatigue-is-real">&lt;/span>
-&lt;a href="#decision-fatigue-is-real" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Our brains can only make so many decisions in a day. The more we spend energy deciding what to eat, when to exercise, or how to structure our day, the less energy we have for deeper, more complex decisions.&lt;/p>
-&lt;p>This clicked for me when I realized how routines could &lt;strong>clear mental clutter&lt;/strong>. Things like running in the morning or writing a quick daily note at the same time became effortless once I stopped leaving them up to daily decision-making.&lt;/p>
-&lt;hr>
-&lt;h2>The Habit Loop: Cue, Craving, Response, Reward&lt;span class="hx-absolute -hx-mt-20" id="the-habit-loop-cue-craving-response-reward">&lt;/span>
-&lt;a href="#the-habit-loop-cue-craving-response-reward" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clear breaks down every habit into a four-step loop:&lt;/p>
-&lt;h3>1. &lt;strong>Cue&lt;/strong>: Make it Obvious&lt;span class="hx-absolute -hx-mt-20" id="1-cue-make-it-obvious">&lt;/span>
-&lt;a href="#1-cue-make-it-obvious" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>I started identifying my bad habits by mapping out my daily actions and rating them as good (+), neutral (=), or bad (-). Then I began using &lt;strong>habit stacking&lt;/strong>: placing a new habit right after an existing one. For instance, I started doing strength training &lt;em>after&lt;/em> my daily bike commute, turning a routine into a trigger.&lt;/p>
-&lt;h3>2. &lt;strong>Craving&lt;/strong>: Make it Attractive&lt;span class="hx-absolute -hx-mt-20" id="2-craving-make-it-attractive">&lt;/span>
-&lt;a href="#2-craving-make-it-attractive" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>What really struck me was that &lt;strong>we crave not the reward itself but the anticipation&lt;/strong>. Just like when I research something I want to buy, I enjoy the search more than the purchase. Clear suggests surrounding ourselves with people who embody the habits we want. That’s been true for me. Just spending time with people who value health, consistency, or curiosity makes me more like them.&lt;/p>
-&lt;h3>3. &lt;strong>Response&lt;/strong>: Make it Easy&lt;span class="hx-absolute -hx-mt-20" id="3-response-make-it-easy">&lt;/span>
-&lt;a href="#3-response-make-it-easy" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The &lt;strong>2-minute rule&lt;/strong> changed everything. I stopped over-optimizing and started &lt;em>showing up&lt;/em>. Just doing a habit, even for 2 minutes, helps keep the momentum alive. &amp;ldquo;The better is the enemy of the good&amp;rdquo; became a mantra.&lt;/p>
-&lt;h3>4. &lt;strong>Reward&lt;/strong>: Make it Satisfying&lt;span class="hx-absolute -hx-mt-20" id="4-reward-make-it-satisfying">&lt;/span>
-&lt;a href="#4-reward-make-it-satisfying" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>We all crave instant gratification, but healthy habits often only pay off later. Creating a &lt;strong>habit tracker&lt;/strong> helped me stay consistent. Even something as simple as checking off a box brings a small reward. And for me, &lt;strong>accountability&lt;/strong> really works. Knowing that someone might ask me how things are going pushes me to stick with it.&lt;/p>
-&lt;hr>
-&lt;h2>Identity-Based Habits: Become the Kind of Person You Want to Be&lt;span class="hx-absolute -hx-mt-20" id="identity-based-habits-become-the-kind-of-person-you-want-to-be">&lt;/span>
-&lt;a href="#identity-based-habits-become-the-kind-of-person-you-want-to-be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>One of Clear’s most powerful ideas is that we often get the habit loop &lt;em>backward&lt;/em>. Most people start with a goal (“I want to run a marathon”) and then try to work backwards.&lt;/p>
-&lt;p>Instead, Clear proposes starting with &lt;strong>identity&lt;/strong>:&lt;/p>
-&lt;blockquote>
-&lt;p>&amp;ldquo;I’m the kind of person who runs regularly&amp;rdquo;&lt;br>
-rather than&lt;br>
-&amp;ldquo;I want to finish a race&amp;rdquo;&lt;/p>
-&lt;/blockquote>
-&lt;p>This shift had a huge impact on me. When I started cycling to work, I didn’t consider myself athletic. But the more I did it, the more I saw myself &lt;em>as someone who cycles&lt;/em>. That identity shift made it easier to build other habits like running, strength training, and eventually completing several marathon and an Ironman 70.3.&lt;/p>
-&lt;hr>
-&lt;h2>Rediscovering the Value of Boredom&lt;span class="hx-absolute -hx-mt-20" id="rediscovering-the-value-of-boredom">&lt;/span>
-&lt;a href="#rediscovering-the-value-of-boredom" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>There’s a surprising idea in &lt;em>Atomic Habits&lt;/em> that I keep coming back to: &lt;strong>embrace boredom&lt;/strong>. Doing the same thing every day, even when it gets repetitive, is what leads to mastery.&lt;/p>
-&lt;p>Whether it’s running in the same streets or writing in the same journal, progress comes from &lt;strong>sticking with the process, even when it’s not exciting&lt;/strong>.&lt;/p>
-&lt;p>And beyond that, I’ve also started carving out time to be intentionally bored. Disconnecting from screens and stimulation helps me think better, process what I’ve learned, and spark new ideas.&lt;/p>
-&lt;hr>
-&lt;h2>Long-Term Gains: The Compounding Effect&lt;span class="hx-absolute -hx-mt-20" id="long-term-gains-the-compounding-effect">&lt;/span>
-&lt;a href="#long-term-gains-the-compounding-effect" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The idea of &lt;strong>marginal gains&lt;/strong> hit home for me. Improving just 1% a day may seem small, but it compounds into something big. That’s why habits matter: they allow these small wins to happen automatically over time.&lt;/p>
-&lt;p>But it also works the other way. Neglecting small actions or falling into easy temptations can compound negatively. That awareness helps me stay intentional, even when the changes seem minor.&lt;/p>
-&lt;hr>
-&lt;h2>The Importance of Reflection&lt;span class="hx-absolute -hx-mt-20" id="the-importance-of-reflection">&lt;/span>
-&lt;a href="#the-importance-of-reflection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Lastly, Clear emphasizes regular reflection to avoid the illusion of progress. Just because something feels easier doesn’t mean we’re actually getting better.&lt;/p>
-&lt;p>I am now trying to build a routine of &lt;strong>quarterly and yearly reviews&lt;/strong>, where I:&lt;/p>
-&lt;ul>
-&lt;li>Measure progress (using habit trackers)&lt;/li>
-&lt;li>Reflect on who I am now&lt;/li>
-&lt;li>Decide who I want to become&lt;/li>
-&lt;/ul>
-&lt;p>This practice helps me adjust course, stay aligned with my values, and keep growing.&lt;/p>
-&lt;hr>
-&lt;h2>Final Thoughts&lt;span class="hx-absolute -hx-mt-20" id="final-thoughts">&lt;/span>
-&lt;a href="#final-thoughts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;em>Atomic Habits&lt;/em> wasn’t just a book I read, it became a framework I use daily. It helped me shift from vague goals to &lt;strong>clear systems&lt;/strong>, from self-criticism to &lt;strong>identity reinforcement&lt;/strong>, and from occasional motivation to &lt;strong>consistent action&lt;/strong>.&lt;/p>
-&lt;script src="https://giscus.app/client.js"
-data-repo="bakouze/slowfwd-discussion"
-data-repo-id="R_kgDOPRd4qw"
-data-category="Announcements"
-data-category-id="DIC_kwDOPRd4q84CtUhX"
-data-mapping="pathname"
-data-strict="0"
-data-reactions-enabled="1"
-data-emit-metadata="0"
-data-input-position="top"
-data-theme="light"
-data-lang="en"
-data-loading="lazy"
-crossorigin="anonymous"
-async>
-&lt;/script></description></item><item><title>Klara and the Sun: Reflections on Technology, Inequality, and Belief</title><link>https://slowfwd.fr/blog/20250619_klara_and_the_sun/</link><pubDate>Thu, 19 Jun 2025 13:26:35 +0200</pubDate><guid>https://slowfwd.fr/blog/20250619_klara_and_the_sun/</guid><description>
-&lt;p>I recently finished reading &lt;em>Klara and the Sun&lt;/em> by Kazuo Ishiguro and found it to be both a deeply moving and intellectually stimulating novel. Through the naive and observant gaze of Klara, an Artificial Friend (AF) designed to support children, Ishiguro explores a number of unsettling themes that are all the more powerful for being presented with such simplicity.&lt;/p>
-&lt;p>The world Klara inhabits is not too far removed from ours: children attend school remotely, socialization is scarce, and society is increasingly stratified by access to advanced technology. By following Klara as she tries to understand and help the sickly teenager Josie, the novel invites us to reflect on what it means to be human in a world shaped by genetic engineering, artificial intelligence, and the human need for meaning.&lt;/p>
-&lt;h2>Gene Editing and the Collapse of Social Mobility&lt;span class="hx-absolute -hx-mt-20" id="gene-editing-and-the-collapse-of-social-mobility">&lt;/span>
-&lt;a href="#gene-editing-and-the-collapse-of-social-mobility" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>One of the most striking elements of the story is the deep social divide caused by genetic modification. Some children are “Lifted”, a euphemism for being genetically enhanced to boost cognitive performance. Josie is lifted; Rick, her closest friend, is not.&lt;/p>
-&lt;p>The consequences of this binary status are severe. Lifted children have access to better education and future opportunities. In contrast, unmodified children are left with virtually no path to upward mobility. At one point, it’s mentioned that only a single university considers non-lifted candidates, and even then, they accept just 2%. The system is structurally rigged.&lt;/p>
-&lt;p>What I found particularly interesting is how Ishiguro softens the notion that lifted children are objectively superior. In fact, both Josie and her late sister, who were lifted, suffer from health complications, hinting at unintended consequences of the procedure. Moreover, the supposed cognitive gap between lifted and non-lifted children appears relatively minor. Rick, for instance, is intellectually curious and technically skilled, capable of building drones and keeping up with Josie in complex social games. What truly sets him apart isn’t any lack of intelligence, but his lack of access.&lt;/p>
-&lt;p>This seems to be Ishiguro’s point: to benefit from an unfair system, you don’t need an actual advantage, just a socially constructed one. The real danger of gene editing in this context is not the enhancement itself, but how it reinforces inequality and erodes any remaining hope for merit-based mobility.&lt;/p>
-&lt;h2>AI and the Temptation of Immortality&lt;span class="hx-absolute -hx-mt-20" id="ai-and-the-temptation-of-immortality">&lt;/span>
-&lt;a href="#ai-and-the-temptation-of-immortality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Another central theme is the role of artificial intelligence and its potential to serve as a vessel for immortality. As Josie’s illness worsens, her mother entertains the idea of creating an artificial replica of her daughter, using Klara as the base and transferring everything she learns about Josie into a synthetic copy.&lt;/p>
-&lt;p>This raises deeply uncomfortable questions. What makes someone who they are? Can a machine programmed with memories and behaviors ever truly replace a person?&lt;/p>
-&lt;p>Interestingly, it’s Josie’s father, arguably the more technically literate character, who is most skeptical of the plan. He acknowledges that he might be able to rationally accept a copy of Josie, but doubts that anyone, especially the mother, would emotionally be able to do the same. There’s a tension here between rationality and emotional truth, just because something is technically possible doesn’t mean it is ethically or psychologically acceptable.&lt;/p>
-&lt;p>Klara’s willingness to sacrifice herself in this plan adds another layer. She does not question whether it is right or wrong, only whether it will help Josie. It’s a haunting depiction of the utilitarian logic that might one day guide human-AI interactions.&lt;/p>
-&lt;h2>Belief, Religion, and the Limits of Understanding&lt;span class="hx-absolute -hx-mt-20" id="belief-religion-and-the-limits-of-understanding">&lt;/span>
-&lt;a href="#belief-religion-and-the-limits-of-understanding" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Finally, the novel touches on the human (and artificial) need for belief. Klara develops a form of solar worship, convinced that the sun, her source of energy, also has healing powers that might save Josie. She prays to it, negotiates with it, and performs rituals in its honor.&lt;/p>
-&lt;p>From a rational perspective, this seems absurd. But for Klara, it provides a sense of agency and purpose. By attributing meaning to her observations, such as a homeless man “resurrected” after a night in the cold, she creates a framework to make sense of the world and her place in it.&lt;/p>
-&lt;p>What struck me here is how closely this mirrors the origins of human religious belief. Faced with incomplete information and emotional uncertainty, both Klara and humans construct narratives that provide comfort and direction. In Klara’s case, her limited understanding of natural phenomena leads to conclusions that are logically flawed but emotionally coherent.&lt;/p>
-&lt;p>There’s also an ironic reversal: we often think of AI as hyper-rational and data-driven, yet Klara behaves more like a spiritually curious child. In reality, as AI grows more powerful, it will not learn about the world through naive sensory experience as Klara does, but through access to global information. Its limitations will be shaped not by observation, but by the biases we’ve embedded in the data we feed it.&lt;/p>
-&lt;p>Still, the ambiguity remains. Josie does recover, and Klara believes it’s because of the sun. Was she right all along? Or was it just coincidence, another case of belief reinforced by luck?&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Klara and the Sun&lt;/em> raises complex questions about where our society might be headed. Through its quiet narrative and gentle pacing, it encourages us to think critically about the consequences of our technological ambitions, and reminds us that behind every innovation lies a set of values and choices we can’t afford to ignore.&lt;/p>
-&lt;script src="https://giscus.app/client.js"
-data-repo="bakouze/slowfwd-discussion"
-data-repo-id="R_kgDOPRd4qw"
-data-category="Announcements"
-data-category-id="DIC_kwDOPRd4q84CtUhX"
-data-mapping="pathname"
-data-strict="0"
-data-reactions-enabled="1"
-data-emit-metadata="0"
-data-input-position="top"
-data-theme="light"
-data-lang="en"
-data-loading="lazy"
-crossorigin="anonymous"
-async>
-&lt;/script></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slowly Forward – Slowly Forward - Philosophy, Data, and Endurance Sports</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Slowly Forward - Philosophy, Data, and Endurance Sports on Slowly Forward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+    <item>
+      <title>The Motivation & Coaching Gap in Endurance Sports</title>
+      <link>http://localhost:1313/blog/motivation-coaching-gap-endurance-sport/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/motivation-coaching-gap-endurance-sport/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Over the past five years, both in my own athletic journey and through helping friends start running or cycling, I’ve seen the same problem repeatedly: &lt;strong&gt;people are either stuck at the starting line or plateau far below their potential&lt;/strong&gt;, not because they lack discipline, but because the tools, advice, and support they need are fragmented, impersonal, and often counterproductive.&lt;/p&gt;
+&lt;h2&gt;1. For Beginners: Getting Started Feels Overwhelming or Risky&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-for-beginners-getting-started-feels-overwhelming-or-risky&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-for-beginners-getting-started-feels-overwhelming-or-risky&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Motivation barrier&lt;/strong&gt;: Many aspiring runners or cyclists never take the first step. Advice online is contradictory, intimidating, and disconnected from their personal situation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No easy entry point&lt;/strong&gt;: Establishing a routine feels impossible without structure or feedback.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The “Strava trap”&lt;/strong&gt;: Motivated beginners often do too much too soon, chasing metrics and public validation. They feel embarrassed to post short, slow workouts, push beyond safe limits, get injured, and quit for months.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-size-fits-all advice&lt;/strong&gt;: Current beginner training plans treat all novices the same, ignoring starting fitness, health conditions, or past athletic experience. An already-fit cyclist and an overweight sedentary beginner get the same generic plan, which is ineffective for both.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2. For Intermediate &amp;amp; Advanced Amateurs: Training Is Fragmented and Untailored&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-for-intermediate--advanced-amateurs-training-is-fragmented-and-untailored&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-for-intermediate--advanced-amateurs-training-is-fragmented-and-untailored&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scattered tools&lt;/strong&gt;: Athletes juggle multiple platforms for plans (TrainingPeaks, Garmin Coach), tracking (Garmin, Strava, Whoop), and nutrition, none of which talk to each other.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generic or expensive plans&lt;/strong&gt;: Paid plans are static, rarely adapted to real-life performance. Coaches can personalize but are expensive, slow to respond, and limited by human bandwidth.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No true multi-sport integration&lt;/strong&gt;: Marathon plans don’t account for cycling and strength training sessions; triathlon training doesn’t dynamically adapt to changes in any single discipline.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No holistic adaptation&lt;/strong&gt;: Current tools don’t combine training data with recovery, sleep, nutrition, and goals to provide integrated, real-time adjustments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multiple goals conflict&lt;/strong&gt;: Athletes with diverse objectives (e.g., sub-3 marathon, summer bike races, muscle building) are left to manually reconcile conflicting advice and plans.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nutrition &amp;amp; supplementation ignored&lt;/strong&gt;: Most training plans are blind to dietary habits, micronutrient deficiencies, or supplements that could improve performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. The Core Gap: A True AI-Powered, Holistic Coach for All Athletes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-the-core-gap-a-true-ai-powered-holistic-coach-for-all-athletes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-the-core-gap-a-true-ai-powered-holistic-coach-for-all-athletes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Today, only &lt;strong&gt;professional athletes with full-time coaches, nutritionists, and health staff&lt;/strong&gt; can truly optimize every aspect of training and health. For everyone else, data already captured by smartwatches and health trackers sits underused in silos.&lt;/p&gt;
+&lt;p&gt;In an era where &lt;strong&gt;AI can process and personalize vast amounts of data instantly&lt;/strong&gt;, it is absurd that most athletes, beginner or advanced, still rely on static, generic advice. There’s a massive opportunity for an &lt;strong&gt;AI-driven, fully integrated coaching solution&lt;/strong&gt; that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Meets beginners where they are&lt;/strong&gt;, removing friction, building habits safely, and keeping motivation high.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Optimizes advanced athletes’ training&lt;/strong&gt;, integrating all available data (training load, recovery, nutrition, sleep) to adapt plans in real time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Democratizes elite-level coaching&lt;/strong&gt;, making it accessible at a fraction of the cost.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;bakouze/slowfwd-discussion&#34;
+        data-repo-id=&#34;R_kgDOPRd4qw&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOPRd4q84CtUhX&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;top&#34;
+        data-theme=&#34;light&#34;
+        data-lang=&#34;en&#34;
+        data-loading=&#34;lazy&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Starting a Side Project with AI: From Childhood Dreams to Modern Experiments</title>
+      <link>http://localhost:1313/blog/side-project-with-ai/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/side-project-with-ai/</guid>
+      <description>
+        
+        
+        &lt;img src=&#34;AI_startup_journey.png&#34; alt=&#34;AI Startup Journey&#34; loading=&#34;lazy&#34; /&gt;&lt;p&gt;I’ve always been fascinated by the idea of creating my own business. As a child, my dream wasn’t to start a startup or join a big company: it was to invent a teleportation device. I suffered from motion sickness and imagined how wonderful it would be to zap from one place to another without the long, uncomfortable hours in between.&lt;/p&gt;
+&lt;p&gt;Years later, while studying in Chicago, three friends and I took our first real shot at entrepreneurship. What started as a class assignment grew into something bigger: a startup idea we called HubRoad. The concept was simple but powerful: help students track their job applications in one place, while also providing key resources like interview prep tips and company insights.&lt;/p&gt;
+&lt;p&gt;We learned so much in the process: built a business strategy, created a pitch deck, developed a Minimum Viable Product, and coded both the front and back ends ourselves. We even won a prize in our school’s startup competition. At the time, we dreamed big! We wanted to become the next Elon Musk and be rich and famous.&lt;/p&gt;
+&lt;p&gt;But reality soon caught up with us. We graduated, started our careers, and struggled to keep the project alive while working full-time and living in different cities. Eventually, HubRoad faded away.&lt;/p&gt;
+&lt;h2&gt;A Shift in Motivation&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-shift-in-motivation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a-shift-in-motivation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Now, several years later, I find myself drawn again to the idea of starting a side project. But this time, my motivation is different. I’m not chasing fame or fortune, I want to keep learning. Technology and business strategies evolved so quickly that the best way to stay curious is to experiment firsthand.&lt;/p&gt;
+&lt;p&gt;The biggest difference compared to ten years ago? We now have AI as a creative partner. Instead of staring at a blank page or waiting for inspiration, I can brainstorm with ChatGPT and generate ideas step by step.&lt;/p&gt;
+&lt;p&gt;Recently, inspired by Anne-Laure Le Cunff’s book Tiny Experiments, I decided to run one myself. I opened ChatGPT and typed:&lt;/p&gt;
+&lt;p&gt;“Can you ask me a set of questions, one after the other, to help me figure out the best side hustle opportunity based on my skills?”&lt;/p&gt;
+&lt;h2&gt;The Power of AI Brainstorming&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-power-of-ai-brainstorming&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-power-of-ai-brainstorming&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The experience surprised me. Instead of spitting out random suggestions, ChatGPT guided me through a reflection process:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What skills do I enjoy using?&lt;/li&gt;
+&lt;li&gt;What motivates me?&lt;/li&gt;
+&lt;li&gt;What problems do I care about solving?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Step by step, the questions helped me connect dots and learn about my motivations. By the end, I had landed on an idea that felt like me: &lt;strong&gt;a habit-building app for aspiring runners and cyclists that rewards consistency and small wins&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;What’s Next&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;whats-next&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#whats-next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I don’t know yet where this experiment will lead, but that’s exactly the point. This time, the journey matters more than the outcome. Building a side project with AI isn’t about chasing the next big thing; it’s about using powerful new tools to learn, create, and grow along the way.&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;bakouze/slowfwd-discussion&#34;
+        data-repo-id=&#34;R_kgDOPRd4qw&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOPRd4q84CtUhX&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;top&#34;
+        data-theme=&#34;light&#34;
+        data-lang=&#34;en&#34;
+        data-loading=&#34;lazy&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>My First Real Bike Race – GFNY Grand Ballon 2025</title>
+      <link>http://localhost:1313/blog/20250722_gfny_grand_ballon/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/20250722_gfny_grand_ballon/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Today was a great milestone: I raced my first official bike race the &lt;a href=&#34;https://grandballon.gfny.com/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GFNY Grand Ballon&lt;/a&gt;!&lt;/p&gt;
+&lt;img src=&#34;GFNY-Grand-Ballon-course-map-25-1.png&#34; alt=&#34;GFNY Grand Ballon - Route&#34; loading=&#34;lazy&#34; /&gt;&lt;img src=&#34;GFNY_profile.png&#34; alt=&#34;GFNY Grand Ballon - Profile&#34; loading=&#34;lazy&#34; /&gt;&lt;p&gt;I’ve done several running events, including three marathons, and multiple triathlons such as the Luxembourg Ironman 70.3. But until now, I had never taken part in a pure cycling race. I had always pushed the idea back, partly out of fear: fear of the mass start, fear of high-speed descents surrounded by other riders, and probably, fear of confronting my real limits as a cyclist.&lt;/p&gt;
+&lt;p&gt;Most of my cycling until now has been comfortable. Not easy, because I have done several challenging 300+ km rides such as the lap of Mallorca or the Tour of Luxembourg, but it was always in relaxed environment with my friends, stopping when we felt like it. Those rides have always been about endurance, not intensity. Racing on steep climbs, my weakest terrain, felt intimidating.&lt;/p&gt;
+&lt;h2&gt;The Race Day&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-race-day&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-race-day&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;img src=&#34;13921_20250720_135703_528105856_original.JPG&#34; alt=&#34;Let’s go!&#34; loading=&#34;lazy&#34; /&gt;&lt;p&gt;The race started at 7:45 AM, so we had to be at the starting point between 7:00 and 7:30. That meant waking up at 5:00 AM for a solid breakfast, coffee, and praying for a good poop (which, sadly, did not happen for me… Mistake #1).&lt;/p&gt;
+&lt;p&gt;The course began with a 250-meter elevation gain through the forest, a good way to spread out the peloton after the mass start. I tried to stay on Antoine’s wheel, but after 20 minutes at ~300 watts and a heart rate of 160–165 bpm (mistake #2), I realized I was going above my sustainable effort and decided to let him go. I settled into my own rhythm.&lt;/p&gt;
+&lt;p&gt;To my relief, the mass start was far less chaotic than I feared. I didn’t feel in danger, and the energy of the race was actually thrilling.&lt;/p&gt;
+&lt;h2&gt;The Grand Ballon&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-grand-ballon&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-grand-ballon&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;img src=&#34;13921_20250720_095313_528102623_original.JPG&#34; alt=&#34;Grand Ballon d’Alsace&#34; loading=&#34;lazy&#34; /&gt;&lt;p&gt;After the first climb and a fast descent back to Thann, where riders passed me from both sides at lightning speed, we reached the most iconic climb of the day: the &lt;strong&gt;Grand Ballon d’Alsace&lt;/strong&gt;. Around 1,000 meters of elevation at a steady 6%. I paced myself carefully, following my Garmin Power Guide, and reached the top after about an hour.&lt;/p&gt;
+&lt;p&gt;There was a food station at the summit, which I skipped thinking that I had enough water and would gain more time by pushing to the next feed station (mistake #3).&lt;/p&gt;
+&lt;h2&gt;The Petit Ballon and Beyond&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-petit-ballon-and-beyond&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-petit-ballon-and-beyond&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;img src=&#34;13921_20250720_110300_528085904_original.JPG&#34; alt=&#34;Petit Ballon&#34; loading=&#34;lazy&#34; /&gt;&lt;p&gt;From there, the day became a blur of fast descents and rolling climbs until I reached the dreaded &lt;strong&gt;Petit Ballon&lt;/strong&gt;. It’s “petit” only in name: around 750 meters of climbing, with punishingly irregular gradients and multiple steep sections above 10%. My legs started to feel very heavy and I was struggling to follow my planned power.&lt;/p&gt;
+&lt;p&gt;A small relief came from the local residents spraying us with water hoses: an absolute lifesaver in the heat! Although… it also mixed with sweat, gels, and dirt on my sunglasses, blinding me for the next descent.&lt;/p&gt;
+&lt;p&gt;Directly after that descent came the last real climb of the day, a challenging (but lesser-known) climb of around 660 meters. I was happy it was the final real ascent of the day, until the cramps started. I had to stop twice to stretch, and I couldn’t push hard on the flatter sections which are usually my strong suit!&lt;/p&gt;
+&lt;h2&gt;Final Push&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;final-push&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#final-push&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;img src=&#34;13921_20250720_083449_528065180_original.JPG&#34; alt=&#34;Ride-on!&#34; loading=&#34;lazy&#34; /&gt;&lt;p&gt;At the last aid station on the Grand Ballon, I downed some isotonic drinks and even ate salt packets, desperate times! That helped reduce the cramps, and I managed to push through the final 20 km: 15 km of descent and 5 km of flat(ish) road back to Thann.&lt;/p&gt;
+&lt;p&gt;I crossed the finish line after 6 hours and 30 minutes, exhausted, proud, and humbled. Antoine and Steven finished 15 and 30 minutes ahead of me, and while I wish I could’ve competed with them more closely, I am happy I gave my best effort!&lt;/p&gt;
+&lt;div class=&#34;strava-embed-placeholder&#34; data-embed-type=&#34;activity&#34; data-embed-id=&#34;15176158148&#34; data-style=&#34;standard&#34; data-from-embed=&#34;false&#34;&gt;&lt;/div&gt;&lt;script src=&#34;https://strava-embeds.com/embed.js&#34;&gt;&lt;/script&gt;
+&lt;h2&gt;Reflections&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;reflections&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reflections&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This race taught me more than I expected, not just about endurance, but about strategy, fueling, and preparation. I made a few key mistakes along the way, and I’m glad I did, because I won’t repeat them next time. Here are the biggest lessons I’m taking with me:&lt;/p&gt;
+&lt;h3&gt;1. Pace yourself at the start.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-pace-yourself-at-the-start&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-pace-yourself-at-the-start&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At the beginning of a race, especially a mass start, it’s easy to get swept up in the adrenaline. You feel fresh, strong, and excited. But going too hard in the early climbs can burn matches you’ll need later. Trust your pacing plan and ride your own race. You’ll thank yourself on the final climb.&lt;/p&gt;
+&lt;h3&gt;2.	Don’t underestimate hydration and fueling, especially on a hot day.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2dont-underestimate-hydration-and-fueling-especially-on-a-hot-day&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2dont-underestimate-hydration-and-fueling-especially-on-a-hot-day&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;I made the rookie mistake of skipping the first feed station to save a few minutes. That choice came back to haunt me in the form of cramps and fatigue during the last climbs. Even if you’re feeling good early on, use the feed zones to refill bottles and plan sufficient electrolytes on hot days.&lt;/p&gt;
+&lt;h3&gt;3.	Pre-race nutrition matters more than you think.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3pre-race-nutrition-matters-more-than-you-think&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3pre-race-nutrition-matters-more-than-you-think&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;I probably overdid the carbs the day before (hello, pizza) and didn’t eat enough fiber. It felt great in the moment, but it may have contributed to a frustratingly absent morning poop, which added a layer of discomfort on race day. In future races, I’ll aim for more balanced meals in the days leading up, including some fiber to keep things moving naturally.&lt;/p&gt;
+&lt;p&gt;Until next time, Vosges!&lt;/p&gt;
+&lt;img src=&#34;13921_20250720_082452_528118259_original.JPG&#34; alt=&#34;Vosges&#34; loading=&#34;lazy&#34; /&gt;&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;bakouze/slowfwd-discussion&#34;
+        data-repo-id=&#34;R_kgDOPRd4qw&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOPRd4q84CtUhX&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;top&#34;
+        data-theme=&#34;light&#34;
+        data-lang=&#34;en&#34;
+        data-loading=&#34;lazy&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>How Atomic Habits Changed My Life</title>
+      <link>http://localhost:1313/blog/20250623_atomic_habits/</link>
+      <pubDate>Mon, 23 Jun 2025 16:58:56 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/20250623_atomic_habits/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A few years ago, I stumbled upon a book that ended up shaping who I am today: &lt;em&gt;Atomic Habits&lt;/em&gt; by James Clear. It didn’t just change how I think, it changed what I &lt;em&gt;do&lt;/em&gt;, every single day.&lt;/p&gt;
+&lt;p&gt;This book helped me become more active and consistent in running, cycling, reading, and many other small routines that now shape my daily life. But more importantly, it shifted the way I think about change. It taught me that meaningful transformation doesn’t come from radical overnight overhauls, but from &lt;strong&gt;small, consistent, incremental improvements&lt;/strong&gt;. Here&amp;rsquo;s a breakdown of some key ideas that stuck with me and how they&amp;rsquo;ve played a role in my own habits.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Why Habits Matter: The Power of Automating the Small Stuff&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;why-habits-matter-the-power-of-automating-the-small-stuff&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#why-habits-matter-the-power-of-automating-the-small-stuff&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Clear argues that &lt;strong&gt;habits are mental shortcuts&lt;/strong&gt;, actions we repeat enough to perform without thinking. And that’s incredibly powerful. By automating the small things, we free up mental energy for what really matters.&lt;/p&gt;
+&lt;h3&gt;Decision Fatigue is Real&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;decision-fatigue-is-real&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#decision-fatigue-is-real&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Our brains can only make so many decisions in a day. The more we spend energy deciding what to eat, when to exercise, or how to structure our day, the less energy we have for deeper, more complex decisions.&lt;/p&gt;
+&lt;p&gt;This clicked for me when I realized how routines could &lt;strong&gt;clear mental clutter&lt;/strong&gt;. Things like running in the morning or writing a quick daily note at the same time became effortless once I stopped leaving them up to daily decision-making.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;The Habit Loop: Cue, Craving, Response, Reward&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-habit-loop-cue-craving-response-reward&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-habit-loop-cue-craving-response-reward&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Clear breaks down every habit into a four-step loop:&lt;/p&gt;
+&lt;h3&gt;1. &lt;strong&gt;Cue&lt;/strong&gt;: Make it Obvious&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-cue-make-it-obvious&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-cue-make-it-obvious&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;I started identifying my bad habits by mapping out my daily actions and rating them as good (+), neutral (=), or bad (-). Then I began using &lt;strong&gt;habit stacking&lt;/strong&gt;: placing a new habit right after an existing one. For instance, I started doing strength training &lt;em&gt;after&lt;/em&gt; my daily bike commute,  turning a routine into a trigger.&lt;/p&gt;
+&lt;h3&gt;2. &lt;strong&gt;Craving&lt;/strong&gt;: Make it Attractive&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-craving-make-it-attractive&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-craving-make-it-attractive&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;What really struck me was that &lt;strong&gt;we crave not the reward itself but the anticipation&lt;/strong&gt;. Just like when I research something I want to buy, I enjoy the search more than the purchase. Clear suggests surrounding ourselves with people who embody the habits we want. That’s been true for me. Just spending time with people who value health, consistency, or curiosity makes me more like them.&lt;/p&gt;
+&lt;h3&gt;3. &lt;strong&gt;Response&lt;/strong&gt;: Make it Easy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-response-make-it-easy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-response-make-it-easy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &lt;strong&gt;2-minute rule&lt;/strong&gt; changed everything. I stopped over-optimizing and started &lt;em&gt;showing up&lt;/em&gt;. Just doing a habit, even for 2 minutes, helps keep the momentum alive. &amp;ldquo;The better is the enemy of the good&amp;rdquo; became a mantra.&lt;/p&gt;
+&lt;h3&gt;4. &lt;strong&gt;Reward&lt;/strong&gt;: Make it Satisfying&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-reward-make-it-satisfying&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-reward-make-it-satisfying&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We all crave instant gratification, but healthy habits often only pay off later. Creating a &lt;strong&gt;habit tracker&lt;/strong&gt; helped me stay consistent. Even something as simple as checking off a box brings a small reward. And for me, &lt;strong&gt;accountability&lt;/strong&gt; really works. Knowing that someone might ask me how things are going pushes me to stick with it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Identity-Based Habits: Become the Kind of Person You Want to Be&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;identity-based-habits-become-the-kind-of-person-you-want-to-be&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#identity-based-habits-become-the-kind-of-person-you-want-to-be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;One of Clear’s most powerful ideas is that we often get the habit loop &lt;em&gt;backward&lt;/em&gt;. Most people start with a goal (“I want to run a marathon”) and then try to work backwards.&lt;/p&gt;
+&lt;p&gt;Instead, Clear proposes starting with &lt;strong&gt;identity&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;ldquo;I’m the kind of person who runs regularly&amp;rdquo;&lt;br&gt;
+rather than&lt;br&gt;
+&amp;ldquo;I want to finish a race&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This shift had a huge impact on me. When I started cycling to work, I didn’t consider myself athletic. But the more I did it, the more I saw myself &lt;em&gt;as someone who cycles&lt;/em&gt;. That identity shift made it easier to build other habits like running, strength training, and eventually completing several marathon and an Ironman 70.3.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Rediscovering the Value of Boredom&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;rediscovering-the-value-of-boredom&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rediscovering-the-value-of-boredom&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;There’s a surprising idea in &lt;em&gt;Atomic Habits&lt;/em&gt; that I keep coming back to: &lt;strong&gt;embrace boredom&lt;/strong&gt;. Doing the same thing every day, even when it gets repetitive, is what leads to mastery.&lt;/p&gt;
+&lt;p&gt;Whether it’s running in the same streets or writing in the same journal, progress comes from &lt;strong&gt;sticking with the process, even when it’s not exciting&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;And beyond that, I’ve also started carving out time to be intentionally bored. Disconnecting from screens and stimulation helps me think better, process what I’ve learned, and spark new ideas.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Long-Term Gains: The Compounding Effect&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;long-term-gains-the-compounding-effect&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#long-term-gains-the-compounding-effect&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The idea of &lt;strong&gt;marginal gains&lt;/strong&gt; hit home for me. Improving just 1% a day may seem small, but it compounds into something big. That’s why habits matter: they allow these small wins to happen automatically over time.&lt;/p&gt;
+&lt;p&gt;But it also works the other way. Neglecting small actions or falling into easy temptations can compound negatively. That awareness helps me stay intentional, even when the changes seem minor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;The Importance of Reflection&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-importance-of-reflection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-importance-of-reflection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Lastly, Clear emphasizes regular reflection to avoid the illusion of progress. Just because something feels easier doesn’t mean we’re actually getting better.&lt;/p&gt;
+&lt;p&gt;I am now trying to build a routine of &lt;strong&gt;quarterly and yearly reviews&lt;/strong&gt;, where I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Measure progress (using habit trackers)&lt;/li&gt;
+&lt;li&gt;Reflect on who I am now&lt;/li&gt;
+&lt;li&gt;Decide who I want to become&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This practice helps me adjust course, stay aligned with my values, and keep growing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Final Thoughts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;final-thoughts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#final-thoughts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Atomic Habits&lt;/em&gt; wasn’t just a book I read, it became a framework I use daily. It helped me shift from vague goals to &lt;strong&gt;clear systems&lt;/strong&gt;, from self-criticism to &lt;strong&gt;identity reinforcement&lt;/strong&gt;, and from occasional motivation to &lt;strong&gt;consistent action&lt;/strong&gt;.&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;bakouze/slowfwd-discussion&#34;
+        data-repo-id=&#34;R_kgDOPRd4qw&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOPRd4q84CtUhX&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;top&#34;
+        data-theme=&#34;light&#34;
+        data-lang=&#34;en&#34;
+        data-loading=&#34;lazy&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Klara and the Sun: Reflections on Technology, Inequality, and Belief</title>
+      <link>http://localhost:1313/blog/20250619_klara_and_the_sun/</link>
+      <pubDate>Thu, 19 Jun 2025 13:26:35 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/20250619_klara_and_the_sun/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I recently finished reading &lt;em&gt;Klara and the Sun&lt;/em&gt; by Kazuo Ishiguro and found it to be both a deeply moving and intellectually stimulating novel. Through the naive and observant gaze of Klara, an Artificial Friend (AF) designed to support children, Ishiguro explores a number of unsettling themes that are all the more powerful for being presented with such simplicity.&lt;/p&gt;
+&lt;p&gt;The world Klara inhabits is not too far removed from ours: children attend school remotely, socialization is scarce, and society is increasingly stratified by access to advanced technology. By following Klara as she tries to understand and help the sickly teenager Josie, the novel invites us to reflect on what it means to be human in a world shaped by genetic engineering, artificial intelligence, and the human need for meaning.&lt;/p&gt;
+&lt;h2&gt;Gene Editing and the Collapse of Social Mobility&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;gene-editing-and-the-collapse-of-social-mobility&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gene-editing-and-the-collapse-of-social-mobility&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;One of the most striking elements of the story is the deep social divide caused by genetic modification. Some children are “Lifted”, a euphemism for being genetically enhanced to boost cognitive performance. Josie is lifted; Rick, her closest friend, is not.&lt;/p&gt;
+&lt;p&gt;The consequences of this binary status are severe. Lifted children have access to better education and future opportunities. In contrast, unmodified children are left with virtually no path to upward mobility. At one point, it’s mentioned that only a single university considers non-lifted candidates, and even then, they accept just 2%. The system is structurally rigged.&lt;/p&gt;
+&lt;p&gt;What I found particularly interesting is how Ishiguro softens the notion that lifted children are objectively superior. In fact, both Josie and her late sister, who were lifted, suffer from health complications, hinting at unintended consequences of the procedure. Moreover, the supposed cognitive gap between lifted and non-lifted children appears relatively minor. Rick, for instance, is intellectually curious and technically skilled, capable of building drones and keeping up with Josie in complex social games. What truly sets him apart isn’t any lack of intelligence, but his lack of access.&lt;/p&gt;
+&lt;p&gt;This seems to be Ishiguro’s point: to benefit from an unfair system, you don’t need an actual advantage, just a socially constructed one. The real danger of gene editing in this context is not the enhancement itself, but how it reinforces inequality and erodes any remaining hope for merit-based mobility.&lt;/p&gt;
+&lt;h2&gt;AI and the Temptation of Immortality&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-and-the-temptation-of-immortality&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-and-the-temptation-of-immortality&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Another central theme is the role of artificial intelligence and its potential to serve as a vessel for immortality. As Josie’s illness worsens, her mother entertains the idea of creating an artificial replica of her daughter, using Klara as the base and transferring everything she learns about Josie into a synthetic copy.&lt;/p&gt;
+&lt;p&gt;This raises deeply uncomfortable questions. What makes someone who they are? Can a machine programmed with memories and behaviors ever truly replace a person?&lt;/p&gt;
+&lt;p&gt;Interestingly, it’s Josie’s father, arguably the more technically literate character, who is most skeptical of the plan. He acknowledges that he might be able to rationally accept a copy of Josie, but doubts that anyone, especially the mother, would emotionally be able to do the same. There’s a tension here between rationality and emotional truth, just because something is technically possible doesn’t mean it is ethically or psychologically acceptable.&lt;/p&gt;
+&lt;p&gt;Klara’s willingness to sacrifice herself in this plan adds another layer. She does not question whether it is right or wrong, only whether it will help Josie. It’s a haunting depiction of the utilitarian logic that might one day guide human-AI interactions.&lt;/p&gt;
+&lt;h2&gt;Belief, Religion, and the Limits of Understanding&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;belief-religion-and-the-limits-of-understanding&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#belief-religion-and-the-limits-of-understanding&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Finally, the novel touches on the human (and artificial) need for belief. Klara develops a form of solar worship, convinced that the sun, her source of energy, also has healing powers that might save Josie. She prays to it, negotiates with it, and performs rituals in its honor.&lt;/p&gt;
+&lt;p&gt;From a rational perspective, this seems absurd. But for Klara, it provides a sense of agency and purpose. By attributing meaning to her observations, such as a homeless man “resurrected” after a night in the cold, she creates a framework to make sense of the world and her place in it.&lt;/p&gt;
+&lt;p&gt;What struck me here is how closely this mirrors the origins of human religious belief. Faced with incomplete information and emotional uncertainty, both Klara and humans construct narratives that provide comfort and direction. In Klara’s case, her limited understanding of natural phenomena leads to conclusions that are logically flawed but emotionally coherent.&lt;/p&gt;
+&lt;p&gt;There’s also an ironic reversal: we often think of AI as hyper-rational and data-driven, yet Klara behaves more like a spiritually curious child. In reality, as AI grows more powerful, it will not learn about the world through naive sensory experience as Klara does, but through access to global information. Its limitations will be shaped not by observation, but by the biases we’ve embedded in the data we feed it.&lt;/p&gt;
+&lt;p&gt;Still, the ambiguity remains. Josie does recover, and Klara believes it’s because of the sun. Was she right all along? Or was it just coincidence, another case of belief reinforced by luck?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Klara and the Sun&lt;/em&gt; raises complex questions about where our society might be headed. Through its quiet narrative and gentle pacing, it encourages us to think critically about the consequences of our technological ambitions, and reminds us that behind every innovation lies a set of values and choices we can’t afford to ignore.&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;bakouze/slowfwd-discussion&#34;
+        data-repo-id=&#34;R_kgDOPRd4qw&#34;
+        data-category=&#34;Announcements&#34;
+        data-category-id=&#34;DIC_kwDOPRd4q84CtUhX&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;top&#34;
+        data-theme=&#34;light&#34;
+        data-lang=&#34;en&#34;
+        data-loading=&#34;lazy&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

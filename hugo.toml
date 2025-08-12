@@ -27,14 +27,14 @@ minify = true
   # SEO settings
   [params.seo]
     googleAnalytics = "G-0D56MFYPPL"
-    googleSiteVerification = "YOUR_GOOGLE_VERIFICATION_CODE"
+    googleSiteVerification = ""
     baiduSiteVerification = ""
     yandexSiteVerification = ""
-    bingSiteVerification = "YOUR_BING_VERIFICATION_CODE"
+    bingSiteVerification = ""
     
   # Open Graph
   [params.openGraph]
-    image = "/images/g-boulanger.jpeg"
+    image = "static/images/g-boulanger.jpeg"
     imageWidth = 1200
     imageHeight = 630
     
