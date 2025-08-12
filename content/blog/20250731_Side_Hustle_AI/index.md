@@ -7,6 +7,7 @@ keywords = ["AI side hustle", "business ideas with AI", "ChatGPT brainstorming",
 tags = ["AI", "entrepreneurship", "side hustle", "learning"]
 categories = ["Entrepreneurship", "AI", "Experiments"]
 slug = 'side-project-with-AI'
+image = "AI_startup_journey.png"
 +++
 
 ![AI Startup Journey](AI_startup_journey.png)

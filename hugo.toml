@@ -11,7 +11,7 @@ enableGitInfo = true
 
 # Performance optimizations
 minify = true
-disableKinds = ["taxonomy", "term"]
+# disableKinds = ["taxonomy", "term"] # Re-enabled for better SEO
 
 # Image processing
 [imaging]
@@ -27,14 +27,14 @@ disableKinds = ["taxonomy", "term"]
   # SEO settings
   [params.seo]
     googleAnalytics = "G-0D56MFYPPL"
-    googleSiteVerification = ""
+    googleSiteVerification = "YOUR_GOOGLE_VERIFICATION_CODE"
     baiduSiteVerification = ""
     yandexSiteVerification = ""
-    bingSiteVerification = ""
+    bingSiteVerification = "YOUR_BING_VERIFICATION_CODE"
     
   # Open Graph
   [params.openGraph]
-    image = "/images/og-default.jpg"
+    image = "/images/g-boulanger.jpeg"
     imageWidth = 1200
     imageHeight = 630
     
@@ -108,6 +108,12 @@ ID = "G-0D56MFYPPL"
     baseName = "feed"
     isPlainText = true
     notAlternative = true
+
+# Sitemap configuration
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 # Security headers
 [security]

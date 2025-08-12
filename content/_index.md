@@ -1,9 +1,11 @@
 ---
-title: "Welcome to My Website"
+title: "Slowly Forward - Philosophy, Data, and Endurance Sports"
 date: 2025-06-25
 draft: false
-description: "Why I started this blog, how it helps me think better, and what you might find here."
+description: "Personal reflections on philosophy, data science, triathlon training, and the pursuit of self-improvement through intentional thinking and endurance sports."
+keywords: ["philosophy", "data science", "triathlon", "endurance sports", "personal development", "zettelkasten", "reflection", "self-improvement"]
 tags: ["personal", "reading", "notes", "zettelkasten", "reflection"]
+image: "static/images/g-boulanger.jpeg"
 ---
 
 Hi! This website is, first and foremost, for me.

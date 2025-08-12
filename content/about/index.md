@@ -12,4 +12,4 @@ Professionally, I work in business intelligence, supporting and leading teams, a
 
 I live mostly in the present, but trying to think a few steps ahead - whether it’s learning new things, refining my training, or designing a more intentional life. I guess you could say I like moving forward - just maybe a little slower, and with purpose.
 
-![](cycling_horizon.JPG)
+![Guillaume cycling on the horizon - capturing the essence of moving slowly forward](cycling_horizon.JPG)
