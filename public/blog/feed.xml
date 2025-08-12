@@ -16,6 +16,110 @@
     
     
     <item>
+      <title>What I Learned from Tiny Experiments</title>
+      <link>http://localhost:1313/blog/tiny-experiments-learnings/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/tiny-experiments-learnings/</guid>
+      <description>
+        
+        
+        &lt;img src=&#34;tiny_experiments_gboulang.png&#34; alt=&#34;Cartoon of me in a lab coat writing in an open ‘PACTs’ notebook at a cozy desk, with a beaker and sticky notes—tiny experiments vibe&#34; loading=&#34;lazy&#34; /&gt;&lt;p&gt;I recently finished Anne-Laure Le Cunff’s &lt;em&gt;Tiny Experiments&lt;/em&gt;, an amzing book showing how to live your life as a series of small experiments designed to learn and follow your curiosity instead of focusing on broken concepts like Goals and linear thinking! Below are the ideas that stuck with me and how I’m trying to apply them to my life.&lt;/p&gt;
+&lt;h2&gt;Goals are overrated; curiosity scales better&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;goals-are-overrated-curiosity-scales-better&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#goals-are-overrated-curiosity-scales-better&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Early in the book, Anne-Laure makes a case that traditional goals often carry someone else’s definition of success: a view of how you should live your life and the idea that any deviation from them equate to failure. They’re not flexible and hard to measure. Goals are often linked to &lt;strong&gt;Cognitive Scripts&lt;/strong&gt; we impose on ourselves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;sequel script&lt;/strong&gt; (continuation bias): keep acting like past-you because change feels risky.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;crowd-pleaser script&lt;/strong&gt;: behave as people around you expect (parents, partners, colleagues).&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;epic script&lt;/strong&gt;: chase a single, all-consuming passion in some grand, cinematic way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Her alternative: follow your curiosity and run tiny experiments. Instead of trying to predict the path, pay attention to what gives you energy and iterate from there. The book suggests using &lt;strong&gt;field notes&lt;/strong&gt;: capture moments of interest, energy, or friction as they happen; write down questions; turn them into experiments.&lt;/p&gt;
+&lt;h2&gt;PACTs: curiosity driven experiment for daily life&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pacts-curiosity-driven-experiment-for-daily-life&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pacts-curiosity-driven-experiment-for-daily-life&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Anne-Laure defines her experiments as &lt;strong&gt;PACTs&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;ldquo;I will do X for Y repetitions (or until Z).&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The focus is on &lt;strong&gt;lead metrics&lt;/strong&gt;, inputs we can control, rather than outcomes. Her advice is to start small (ten days for example), reflect, and iterate. The compounding comes from second-order effects: small tweaks that accumulate.&lt;/p&gt;
+&lt;p&gt;What a PACT isn&amp;rsquo;t:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A habit:&lt;/strong&gt; It’s time-bound and explicitly experimental.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A New Year’s resolution:&lt;/strong&gt; It’s small by design, and “failure” is new data and thus should be seen as progress.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;My current PACTs&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;my-current-pacts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#my-current-pacts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;I will publish at least two posts per month on my site for the next six months.&lt;/li&gt;
+&lt;li&gt;I will work two hours per week on &lt;strong&gt;Kinethos&lt;/strong&gt;, my side project to build an AI coach for amateur athletes, for the next 2 months.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Growth loops to learn from your PACTs&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;growth-loops-to-learn-from-your-pacts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#growth-loops-to-learn-from-your-pacts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We should reserve time for Metacognition, thinking about thinking. This is especially hard nowadays when everything fights for our attention: social media, TV, &amp;hellip; The book argues for deliberate input-free time and scheduling weekly reflection session based on &lt;strong&gt;Plus, Minus, Next&lt;/strong&gt; review:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Plus &amp;ldquo;+&amp;rdquo;&lt;/th&gt;
+          &lt;th&gt;Minus &amp;ldquo;-&amp;rdquo;&lt;/th&gt;
+          &lt;th&gt;Next &amp;ldquo;→&amp;rdquo;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;What went well&lt;/td&gt;
+          &lt;td&gt;What didn’t&lt;/td&gt;
+          &lt;td&gt;What I’ll adjust this week based on what I learned&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Learn in public&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;learn-in-public&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#learn-in-public&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Publishing PACTs and sharing learnings accelerates the loop. It attracts peers, surfaces better ideas, and builds accountability. Don&amp;rsquo;t be afraid to show the raw stuff: failures as well as successes! People are more likely to connect with you if it feels real, because they will have experienced the same things.&lt;/p&gt;
+&lt;p&gt;This is why my first PACT is to publish two articles per month to leave a public trail of learning.&lt;/p&gt;
+&lt;h3&gt;What&amp;rsquo;s next at the end of a PACT?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;whats-next-at-the-end-of-a-pact&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#whats-next-at-the-end-of-a-pact&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When a PACT ends, Anne-Laure proposes three options:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Persist&lt;/strong&gt;: If it works, keep the PACT as it is. Not everything needs to grow, escalate.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pause&lt;/strong&gt;: If it doesn’t fit, stop. don&amp;rsquo;t fall into sunk-cost fallacy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pivot&lt;/strong&gt;: Use what you learned from the experiment to change it to better suit you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Other useful concepts presented in the book&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;other-useful-concepts-presented-in-the-book&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#other-useful-concepts-presented-in-the-book&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Live in Kairos time&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;live-in-kairos-time&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#live-in-kairos-time&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We live in a culture that glorifies output and pushes us to always do more, faster. Our live is controlled by the clock: wake up at 6AM with an alarm, 30 minutes meetings, &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Greeks had 2 words for time:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chronos&lt;/strong&gt; is clock time, quantity of time. The only one we consider nowadays.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kairos&lt;/strong&gt; is the felt rightness of a moment, quality of time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anne-Laure suggests improving the way we manage our time, to live in Kairos time:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Energy&lt;/strong&gt;. Work in your “magic window” and prioritize true rest.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Executive function&lt;/strong&gt;. Match the task to the moment; no multitasking.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kairos rituals&lt;/strong&gt;. Small cues that ease you into deep work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I will try to implement this by creating the perfect Kairos morning routine for me: Wake without alarm, meditate for 10 minutes, go for my morning run/strength training, then spend the first two hours on deep / focused work with nice cup of coffee, and &lt;strong&gt;no email&lt;/strong&gt; to start the day.&lt;/p&gt;
+&lt;h3&gt;Procrastination is a signal, not a sin&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;procrastination-is-a-signal-not-a-sin&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#procrastination-is-a-signal-not-a-sin&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Another idea I liked: Procrastination is not laziness or failure, but the sign of a psychological block, use procrastination to understand what is blocking you. The book invites a quick diagnostic:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Head&lt;/strong&gt;: Is this the right task (or priority) now?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heart&lt;/strong&gt;: Am I motivated by the task? Is it aligned with my interests?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hand&lt;/strong&gt;: Do I feel that I have the skills required to handle the task?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Community as a force multiplier&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;community-as-a-force-multiplier&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#community-as-a-force-multiplier&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We think better together, especially when we specialize. The book’s framing clicked with my world of sport: athletes perform because a coach plans training, a nutritionist guides fueling, and a physio optimizes recovery. If you had to think through all of that alone, you’d burn out before lacing up. That’s how I picture &lt;strong&gt;Kinethos&lt;/strong&gt;: provide pro level support to amateur athletes so they can perform at their best without carrying the mental load!&lt;/p&gt;
+&lt;p&gt;More broadly, Anne-Laure describes how we should all find and join communities that ressemble us and go through 3 stages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Apprentices&lt;/strong&gt;: learn from the community and its members&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Artisan&lt;/strong&gt;: bring value to the community thanks to your unique skills&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Architect&lt;/strong&gt;: improve your communities / design new ones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Rethinking legacy: be generative&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;rethinking-legacy-be-generative&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rethinking-legacy-be-generative&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Chasing linear success, title, money, fame, rarely satisfies. The hedonic treadmill keeps moving. The book nudges us toward being &lt;strong&gt;generative&lt;/strong&gt;: use your skills to create value for others, grow lateral roots beyond your obvious path, and share your lessons, even when experiments fail. Anne-Laure relates this to the idea from Sam Altman that that how lucky you are can be improved by increasing your &amp;ldquo;surface area&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Luck isn’t an independent variable but increases super-linearly with more surface area, you meet more people, make more connections between new ideas, learn patterns.”&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sam Altman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>The Motivation & Coaching Gap in Endurance Sports</title>
       <link>http://localhost:1313/blog/motivation-coaching-gap-endurance-sport/</link>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>

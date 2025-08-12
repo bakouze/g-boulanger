@@ -1,5 +1,5 @@
 ---
-title: "Slowly Forward - Philosophy, Data, and Endurance Sports"
+title: "Slowly Forward"
 date: 2025-06-25
 draft: false
 description: "Personal reflections on philosophy, data science, triathlon training, and the pursuit of self-improvement through intentional thinking and endurance sports."
