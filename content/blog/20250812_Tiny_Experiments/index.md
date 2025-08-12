@@ -10,7 +10,7 @@ slug = "tiny-experiments-learnings"
 
 ![Cartoon of me in a lab coat writing in an open ‘PACTs’ notebook at a cozy desk, with a beaker and sticky notes—tiny experiments vibe](tiny_experiments_gboulang.png)
 
-I recently finished Anne-Laure Le Cunff’s *Tiny Experiments*, an amzing book showing how to live your life as a series of small experiments designed to learn and follow your curiosity instead of focusing on broken concepts like Goals and linear thinking! Below are the ideas that stuck with me and how I’m trying to apply them to my life.
+I recently finished [Anne-Laure Le Cunff’s *Tiny Experiments*](https://nesslabs.com/book), an amzing book showing how to live your life as a series of small experiments designed to learn and follow your curiosity instead of focusing on broken concepts like Goals and linear thinking! Below are the ideas that stuck with me and how I’m trying to apply them to my life.
 
 ## Goals are overrated; curiosity scales better
 
@@ -36,7 +36,7 @@ What a PACT isn't:
 ### My current PACTs
 
 - I will publish at least two posts per month on my site for the next six months.
-- I will work two hours per week on **Kinethos**, my side project to build an AI coach for amateur athletes, for the next 2 months.
+- I will work two hours per week on [**Kinethos**, my side project to build an AI coach for amateur athletes](https://slowfwd.fr/blog/motivation-coaching-gap-endurance-sport/), for the next 2 months.
 
 ### Growth loops to learn from your PACTs
 
@@ -85,7 +85,7 @@ Another idea I liked: Procrastination is not laziness or failure, but the sign o
 
 ### Community as a force multiplier
 
-We think better together, especially when we specialize. The book’s framing clicked with my world of sport: athletes perform because a coach plans training, a nutritionist guides fueling, and a physio optimizes recovery. If you had to think through all of that alone, you’d burn out before lacing up. That’s how I picture **Kinethos**: provide pro level support to amateur athletes so they can perform at their best without carrying the mental load! 
+We think better together, especially when we specialize. The book’s framing clicked with my world of sport: athletes perform because a coach plans training, a nutritionist guides fueling, and a physio optimizes recovery. If you had to think through all of that alone, you’d burn out before lacing up. That’s how I picture [**Kinethos**](https://slowfwd.fr/blog/motivation-coaching-gap-endurance-sport/): provide pro level support to amateur athletes so they can perform at their best without carrying the mental load! 
 
 More broadly, Anne-Laure describes how we should all find and join communities that ressemble us and go through 3 stages:
 - **Apprentices**: learn from the community and its members
